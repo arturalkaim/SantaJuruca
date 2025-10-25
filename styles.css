@@ -533,3 +533,247 @@ body {
 .hidden {
     display: none;
 }
+
+/* ===================================
+   PRINT STYLES
+   =================================== */
+@media print {
+    /* Reset colors and backgrounds for print */
+    * {
+        background: white !important;
+        color: black !important;
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+    body {
+        padding: 0;
+        background: white;
+    }
+
+    .container {
+        max-width: 100%;
+    }
+
+    /* Hide tabs navigation for print */
+    .tabs {
+        display: none !important;
+    }
+
+    /* Hide footer for print */
+    .footer {
+        display: none !important;
+    }
+
+    /* Simplify header for print */
+    .header {
+        background: white !important;
+        border: 2px solid #000;
+        padding: 10px;
+        margin-bottom: 20px;
+    }
+
+    .header h1 {
+        font-size: 24px;
+    }
+
+    /* Content styling for print */
+    .content {
+        padding: 0;
+    }
+
+    /* Page breaks */
+    .section-card,
+    .schedule-item,
+    .gastro-section,
+    .info-section {
+        page-break-inside: avoid;
+    }
+
+    .day-title,
+    .intro-title {
+        page-break-after: avoid;
+    }
+
+    /* Hide maps (can't print interactive maps) */
+    .map-container {
+        display: none !important;
+    }
+
+    /* Show map links instead */
+    .map-link {
+        display: inline-block !important;
+        text-decoration: underline;
+    }
+
+    /* Add page numbers */
+    @page {
+        margin: 2cm;
+    }
+
+    /* Links */
+    a[href]:after {
+        content: " (" attr(href) ")";
+        font-size: 0.8em;
+    }
+
+    /* Hide external link icons */
+    a[href^="http"]:after {
+        content: " [" attr(href) "]";
+    }
+
+    /* Don't show link URLs for internal anchors */
+    a[href^="#"]:after {
+        content: "";
+    }
+
+    /* Ensure good contrast */
+    .religious-box,
+    .tip-box,
+    .movie-box {
+        border: 1px solid #000 !important;
+        padding: 8px !important;
+        margin: 8px 0 !important;
+    }
+
+    /* Better typography for print */
+    body {
+        font-size: 12pt;
+        line-height: 1.5;
+    }
+
+    h1 { font-size: 24pt; }
+    h2 { font-size: 18pt; }
+    h3 { font-size: 14pt; }
+    h4 { font-size: 12pt; }
+}
+
+/* ===================================
+   ENHANCED MOBILE RESPONSIVENESS
+   =================================== */
+
+/* Small phones (320px - 480px) */
+@media (max-width: 480px) {
+    body {
+        padding: 4px;
+    }
+
+    .header h1 {
+        font-size: 20px;
+    }
+
+    .header .subtitle {
+        font-size: 14px;
+    }
+
+    .header .dates,
+    .header .spiritual {
+        font-size: 12px;
+    }
+
+    /* Tabs - stack vertically or make scrollable */
+    .tabs {
+        flex-wrap: nowrap;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+        padding-bottom: 8px;
+    }
+
+    .tab {
+        min-width: 80px;
+        flex-shrink: 0;
+    }
+
+    /* Schedule items */
+    .schedule-item {
+        padding: 12px;
+    }
+
+    .schedule-title {
+        font-size: 16px;
+    }
+
+    .schedule-desc {
+        font-size: 13px;
+    }
+
+    /* Buttons */
+    .btn-primary {
+        padding: 10px 16px;
+        font-size: 14px;
+    }
+
+    /* Map containers */
+    .map-container {
+        height: 250px;
+    }
+}
+
+/* Medium phones and small tablets (481px - 768px) */
+@media (min-width: 481px) and (max-width: 768px) {
+    .tabs {
+        flex-wrap: wrap;
+    }
+
+    .tab {
+        min-width: 100px;
+    }
+
+    .map-container {
+        height: 280px;
+    }
+}
+
+/* Landscape phones */
+@media (max-height: 480px) and (orientation: landscape) {
+    .header {
+        padding: 12px;
+    }
+
+    .header h1 {
+        font-size: 20px;
+    }
+
+    .tabs {
+        padding: 8px 4px;
+    }
+
+    .tab {
+        padding: 6px;
+    }
+}
+
+/* Touch-friendly improvements */
+@media (hover: none) and (pointer: coarse) {
+    /* Larger touch targets */
+    .tab {
+        min-height: 60px;
+    }
+
+    .btn-primary {
+        min-height: 48px;
+        padding: 12px 20px;
+    }
+
+    .map-link {
+        min-height: 44px;
+        padding: 10px 16px;
+    }
+
+    /* Prevent text selection on repeated taps */
+    .tab,
+    .btn-primary {
+        -webkit-user-select: none;
+        user-select: none;
+        -webkit-tap-highlight-color: rgba(249, 115, 22, 0.2);
+    }
+}
+
+/* High DPI screens */
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+    /* Ensure crisp text */
+    body {
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+    }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Roma Jubileu 2025 - Guia de Viagem",
+  "short_name": "Roma 2025",
+  "description": "Guia completo de peregrinação a Roma para o Ano Jubilar 2025",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#f97316",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='0.9em' font-size='90'>⛪</text></svg>",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["travel", "lifestyle", "navigation"],
+  "lang": "pt-PT"
+}

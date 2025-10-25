@@ -175,35 +175,75 @@ São portas especiais que só se abrem durante os Anos Santos. Atravessá-las é
 <strong>A Indulgência Plenária:</strong>
 Ao atravessar cada Porta Santa com as condições adequadas (confissão, comunhão, oração pelas intenções do Papa, e espírito de conversão), recebem o perdão completo dos pecados — uma graça extraordinária!
 
-<strong>As 4 Basílicas Papais com Portas Santas:</strong>
+<strong>✅ RESERVAS JÁ FEITAS - As 4 Basílicas Papais:</strong>
 
-1️⃣ <strong>São Pedro (Vaticano)</strong> - Sobre o túmulo do primeiro Papa
-   → <em>Já incluída no itinerário - Domingo durante a missa!</em>
+1️⃣ <strong>São Paulo Extramuros</strong> - Sobre o túmulo de São Paulo
+   → 📅 <strong>Sexta, 28/11 às 15:00</strong>
+   → 👤 Reserva: Raul (App Jubilee)
+   → 🔑 Código: Constantino&63
+   → 🚇 Metro B: Basilica San Paolo
 
-2️⃣ <strong>Santa Maria Maior</strong> - A igreja dedicada à Virgem Maria
-   → <em>Pertinho do hotel! 900m, 12min a pé</em>
+2️⃣ <strong>São Pedro (Vaticano)</strong> - Sobre o túmulo do primeiro Papa
+   → 📅 <strong>Sábado, 29/11 às 15:00</strong>
+   → 👤 Reserva: Marisa (App Jubilee)
+   → 🔑 Código: Constantino&63
+   → ✅ Já incluída no itinerário do Vaticano!
 
-3️⃣ <strong>São João de Latrão</strong> - A Catedral oficial do Papa, "Mãe de todas as igrejas"
-   → <em>Metro A: San Giovanni (3 paragens de Termini)</em>
+3️⃣ <strong>Santa Maria Maior</strong> - A igreja dedicada à Virgem Maria
+   → 📅 <strong>Sábado, 29/11 às 17:00</strong>
+   → 🚶 Pertinho do hotel! 900m, 12min a pé
+   → 💡 Podem ir depois de São Pedro!
 
-4️⃣ <strong>São Paulo Extramuros</strong> - Sobre o túmulo de São Paulo
-   → <em>Metro B: Basilica San Paolo</em>
+4️⃣ <strong>São João de Latrão</strong> - A Catedral oficial do Papa
+   → 📅 <strong>Domingo, 30/11 às 14:00</strong>
+   → 🚇 Metro A: San Giovanni (3 paragens de Termini)
+   → 💡 Depois do Coliseu, antes do Bairro Judeu!
 
-<strong>O DESAFIO que vos lançamos:</strong>
-Tentem visitar as 4 Portas Santas durante a vossa peregrinação! Não será fácil em apenas 3 dias, mas é possível com alguma reorganização. Ou, pelo menos, visitem 2 ou 3 das 4. Cada porta atravessada é uma bênção única!
+<strong>🎯 TODAS AS 4 PORTAS SANTAS RESERVADAS! 🎉</strong>
 
-<strong>Como encaixar no itinerário:</strong>
-• <strong>São Pedro</strong>: Domingo de manhã ✅ (já incluído!)
-• <strong>Santa Maria Maior</strong>: Segunda de manhã cedo (08:15-09:15), antes do Panteão — muito fácil!
-• <strong>São João de Latrão</strong>: Sábado após o Bairro Judeu, ou Domingo à tarde (em vez de descanso)
-• <strong>São Paulo Extramuros</strong>: O mais difícil de encaixar (mais afastado)
+Os vossos sobrinhos já trataram de tudo! Têm as 4 Basílicas Papais reservadas. Cada uma tem uma reserva específica na app Jubilee:
 
-<strong>Sugestão prática:</strong>
-Façam pelo menos <strong>São Pedro + Santa Maria Maior</strong> (2 Portas Santas) — é perfeitamente viável e já é uma peregrinação completa! As outras podem ficar para uma próxima visita a Roma.
+• <strong>Raul e Marisa</strong>: Verifiquem a app Jubilee (têm códigos Constantino&63)
+• <strong>Horários marcados</strong>: Sexta 15h, Sábado 15h e 17h, Domingo 14h
+• <strong>É só aparecer</strong> no horário indicado!
+
+<strong>💡 Dica Importante:</strong>
+Descarreguem a <strong>App Jubilee 2025</strong> antes de partir! Lá têm todas as reservas, códigos QR, e informações sobre as celebrações.
+
+<strong>Como organizar os dias:</strong>
+• <strong>Sexta (28/11)</strong>: São Paulo Extramuros às 15h (podem encaixar de manhã ou tarde)
+• <strong>Sábado (29/11)</strong>: São Pedro às 15h + Santa Maria Maior às 17h ✅
+• <strong>Domingo (30/11)</strong>: São João de Latrão às 14h (entre Coliseu e Bairro Judeu)
+
+<strong>🚪 Como Atravessar a Porta Santa (Passo a Passo):</strong>
+
+1️⃣ <strong>Preparação Interior:</strong>
+   • Momento de silêncio e recolhimento
+   • Pensem nas vossas intenções e conversão
+   • Peçam perdão pelos pecados
+
+2️⃣ <strong>Ao Atravessar:</strong>
+   • Façam o sinal da cruz
+   • Entrem com devoção e reverência
+   • Podem rezar: <em>"Por esta Porta Santa, eu entro como peregrino, deixando para trás o pecado e caminhando para a santidade. Senhor, renova a minha fé!"</em>
+   • Ou simplesmente rezem um Pai Nosso enquanto atravessam
+
+3️⃣ <strong>Depois de Entrar:</strong>
+   • Ajoelhem-se e façam uma breve oração
+   • Agradeçam a Deus pela graça do Jubileu
+   • Visitem o Santíssimo Sacramento (se disponível)
+
+4️⃣ <strong>Para a Indulgência Plenária (opcional mas recomendado):</strong>
+   • ✅ Sacramento da Confissão (alguns dias antes ou depois)
+   • ✅ Comunhão Eucarística
+   • ✅ Oração pelas intenções do Papa (Pai Nosso + Ave Maria)
+   • ✅ Desapego de todo o pecado, mesmo venial
+
+<strong>💡 Nota:</strong> Não é obrigatório fazer tudo isto para atravessar a Porta Santa — o mais importante é a disposição do coração! A indulgência plenária é um dom adicional para quem deseja.
 
 Lembrem-se: <strong>as Portas Santas fecham a 28 de Dezembro de 2025</strong>. Vocês vão em Novembro — timing perfeito!
 
-Esta é uma oportunidade única de receberem graças extraordinárias. Nós, vossos sobrinhos, rezamos para que consigam viver esta experiência ao máximo. Que cada porta atravessada vos aproxime mais de Cristo! 🚪✝️</div>
+Esta é uma oportunidade ÚNICA! Vão conseguir atravessar as 4 Portas Santas e receber as graças do Ano Jubilar. Nós, vossos sobrinhos, rezamos para que vivam esta experiência ao máximo. Que cada porta atravessada vos aproxime mais de Cristo! 🚪✝️🙏</div>
                 </div>
             </div>
         </div>
@@ -275,70 +315,83 @@ function renderDay(dayNum) {
         {
             title: "Sexta-feira - Chegada",
             fullDate: "Sexta-feira, 28 Novembro 2025",
-            intro: "Queridas tias, o vosso primeiro dia em Roma! Depois de uma madrugada cedo (o voo parte às 05:55 de Lisboa), vão chegar à Cidade Eterna pela manhã. Preparámos este dia com calma e carinho: instalação tranquila no hotel, um descanso merecido para recuperar da viagem, e ao final do dia têm um Free Walking Tour às 19h para uma primeira descoberta guiada da cidade. Respirem fundo: estão em Roma! 💙",
+            intro: "Queridas tias, o vosso primeiro dia em Roma! Depois de uma madrugada cedo (o voo parte às 05:55 de Lisboa), vão chegar à Cidade Eterna pela manhã. Preparámos este dia com um programa especial: chegada tranquila, visita à Basílica de São Paulo Extramuros às 15h (primeira Porta Santa!), e um Free Walking Tour às 19h que vos vai mostrar os encantos de Roma. No final do tour, passeio pela Fontana di Trevi iluminada. Respirem fundo: estão em Roma! 💙",
             schedule: [
-                { time: "05:55", title: "Partida de Lisboa", desc: "Voo Ryanair - Aeroporto de Lisboa", religious: "✝️ Que São Rafael, padroeiro dos viajantes, vos proteja!", icon: "📍" },
+                { time: "05:55", title: "Partida de Lisboa", desc: "Voo Ryanair - Aeroporto de Lisboa", religious: "✝️ Que São Rafael, padroeiro dos viajantes, vos proteja!", icon: "✈️" },
                 { time: "10:05", title: "Chegada ao Aeroporto Fiumicino", desc: "Voo aterra - Leonardo da Vinci International", religious: "✝️ Chegam à cidade dos 7 montes, onde São Pedro e São Paulo foram martirizados!", icon: "📍" },
-                { time: "11:00-12:00", title: "Transfer para o Hotel", desc: "Opção recomendada: Carrinha privada 9 lugares", mapLink: "https://www.google.com/maps/dir/Fiumicino+-+Aeroporto+Internazionale+Leonardo+da+Vinci,+Fiumicino/Hotel+Quirinale,+Via+Nazionale,+7,+00184+Roma", details: ["Carrinha privada: €120-150 (recomendado para o grupo)", "Leonardo Express + caminhada: €14/pessoa para Termini, depois 8min a pé", "Táxis: 2-3 táxis a €50 cada = €100-150"], tip: "💡 A carrinha é mais confortável e porta-a-porta!", icon: "🚆" },
-                { time: "12:30", title: "Chegada ao Hotel Quirinale", desc: "Via Nazionale, 7 - Deixar malas na recepção", details: ["⏰ Check-in oficial: 14:30 (2:30 PM)", "Podem deixar as malas guardadas se chegarem antes", "Usar as instalações do hotel enquanto esperam"], religious: "✝️ Próximo da Basílica de Santa Maria Maggiore, uma das 4 basílicas papais!", icon: "📍" },
-                { time: "14:00", title: "Almoço no Hotel ou Perto", restaurants: ["Regoli - Via dello Statuto, 60 (5min) - Pastelaria histórica desde 1916"], tip: "💡 Almoçar enquanto esperam pelo check-in às 14:30", icon: "🍽️" },
-                { time: "14:30", title: "Check-in no Hotel", desc: "Subir aos quartos, instalar-se com calma", icon: "📍" },
-                { time: "15:30-17:30", title: "Descanso nos Quartos", desc: "Tempo para descansar, tomar banho, recuperar da madrugada", tip: "⚠️ Importante! Novembro pode estar fresco (12-18°C). A madrugada foi cedo - descansem bem!", icon: "☕" },
-                { time: "18:00", title: "Passeio à Fontana di Trevi", desc: "1.3 km a pé do hotel (15min, descida suave)", mapLink: "https://www.google.com/maps/dir/Hotel+Quirinale,+Via+Nazionale,+7,+00184+Roma/Trevi+Fountain,+Piazza+di+Trevi,+00187+Roma", religious: "✝️ A fonte celebra a chegada da água do aqueduto Acqua Vergine. Lancem a moeda com a mão direita por cima do ombro esquerdo!", tip: "💡 À noite está lindamente iluminada e menos gente", icon: "📸" },
-                { time: "19:30", title: "Jantar na zona de Trevi", restaurants: ["🍝 Hostaria Romana - Via del Boccaccio, 1 - Carbonara autêntica", "🍝 Al Moro - Vicolo delle Bollette, 13 - Histórico desde 1929", "🍝 Colline Emiliane - Via degli Avignonesi, 22 - Tortellini famosos", "🍝 Ou na zona onde o tour terminar - o guia dá boas dicas!"], icon: "🍽️" },
-                { time: "23:00", title: "🏨 Regresso ao Hotel", desc: "Descansar bem - amanhã é dia cheio no Vaticano!", icon: "🚌" }
+                { time: "11:00-12:00", title: "Transfer para o Hotel", desc: "Comboio Leonardo Express + caminhada", mapLink: "https://www.google.com/maps/dir/Fiumicino+-+Aeroporto+Internazionale+Leonardo+da+Vinci,+Fiumicino/Hotel+Quirinale,+Via+Nazionale,+7,+00184+Roma", details: ["✅ Leonardo Express: €14/pessoa até Termini (32min)", "✅ Depois: 8min a pé até ao hotel (650m)", "Alternativa: Carrinha privada €120-150", "Táxis: 2-3 táxis a €50 cada = €100-150"], tip: "💡 O comboio é rápido, direto e económico!", icon: "🚆" },
+                { time: "12:00", title: "Chegada ao Hotel Quirinale", desc: "Via Nazionale, 7 - Deixar malas na recepção", details: ["⏰ Check-in: às 17:00 (podem deixar malas guardadas antes)", "Usar as instalações do hotel enquanto esperam"], religious: "✝️ Próximo da Basílica de Santa Maria Maggiore, uma das 4 basílicas papais!", icon: "🏨" },
+                { time: "12:30-13:30", title: "Almoço Perto do Hotel", restaurants: ["Regoli - Via dello Statuto, 60 (5min) - Pastelaria histórica desde 1916", "Ou qualquer restaurante típico na Via Nazionale"], icon: "🍽️" },
+                { time: "14:00", title: "🚇 Ir para São Paulo Extramuros", desc: "Metro Linha B: Termini → Basilica San Paolo", mapLink: "https://www.google.com/maps/dir/Hotel+Quirinale/Basilica+Papale+San+Paolo+fuori+le+Mura", details: ["Metro B de Termini: 6 paragens, 15min", "Bilhete: €1.50"], icon: "🚇" },
+                { time: "15:00", title: "🚪 Basílica de São Paulo Extramuros", desc: "⚠️ RESERVA MARCADA - Raul", details: ["👤 Reserva: Raul (App Jubilee)", "🔑 Código: Constantino&63", "🚪 PRIMEIRA PORTA SANTA! 1/4 completada"], religious: "✝️ Construída sobre o túmulo de São Paulo! Segunda maior basílica depois de São Pedro. O claustro é de uma beleza indescritível!", highlights: ["Porta Santa - atravessar para indulgência plenária!", "Túmulo de São Paulo sob o altar", "Mosaicos dourados bizantinos", "Claustro medieval com colunas decoradas"], tip: "💡 Esta é a mais afastada das 4 basílicas - começamos por ela!", icon: "⛪" },
+                { time: "16:30", title: "🚌 Regressar ao Centro", desc: "Bus 23 até Boca della Verità / Monumento Vittorio Emanuele", mapLink: "https://www.google.com/maps/dir/Basilica+San+Paolo/Bocca+della+Verita", details: ["Bus 23: para na Boca della Verità", "Ou Metro B de volta + Bus"], icon: "🚌" },
+                { time: "17:00", title: "Check-in no Hotel", desc: "Subir aos quartos, refrescar-se rapidamente", icon: "🏨" },
+                { time: "17:30-18:30", title: "Tempo Livre / Descanso", desc: "Descansar ou passear pela Via Nazionale", details: ["(Opcional) Igreja de Santo Inácio de Loyola - 900m, 12min a pé", "(Opcional) Basílica de Santa Maria Sobre Minerva - perto do Panteão"], tip: "💡 Podem descansar ou explorar perto do hotel antes do tour!", icon: "☕" },
+                { time: "19:00", title: "🚶 Free Walking Tour MARCADO", desc: "Tour guiado gratuito por Roma (gorjeta ao guia no final)", mapLink: "https://www.civitatis.com/pt/roma/free-tour-roma/", details: ["📍 Início: Santa Maria del Popolo, Piazza del Popolo", "📍 Fim: Piazza Navona (cerca 21:00)", "⏱️ Duração: ~2 horas", "✅ Reserva já feita!", "💰 Grátis (gorjeta sugerida €10-15/pessoa)"], highlights: ["Piazza del Popolo", "Via del Corso", "Piazza di Spagna (opcional)", "Fontana di Trevi (pode passar)", "Piazza Navona"], tip: "💡 O guia vai dar dicas fantásticas sobre Roma e restaurantes!", icon: "🚶" },
+                { time: "21:00", title: "Jantar na Piazza Navona", restaurants: ["🍝 Tre Scalini - famoso pelo tartufo gelado", "🍝 Cul de Sac - enoteca com boa comida", "🍝 Estabelle di Bacco", "🍝 Ou onde o guia recomendar!"], tip: "💡 A Piazza Navona à noite é mágica!", icon: "🍽️" },
+                { time: "22:30", title: "🌙 Fontana di Trevi à Noite", desc: "Caminhada de Piazza Navona até Trevi (10min, 700m)", mapLink: "https://www.google.com/maps/dir/Piazza+Navona/Trevi+Fountain", religious: "✝️ Lancem a moeda: uma moeda = voltam a Roma; duas = novo amor; três = casamento!", tip: "💡 À noite está lindamente iluminada e com menos gente! Momento perfeito para fotos.", icon: "⛲" },
+                { time: "23:30", title: "🏨 Regresso ao Hotel", desc: "15min a pé de Trevi até hotel. Descansar bem - amanhã é dia cheio no Vaticano!", icon: "🚌" }
             ]
         },
         {
             title: "Sábado - Vaticano",
             fullDate: "Sábado, 29 Novembro 2025",
-            intro: "Sábado no Vaticano — um dia inteiro dedicado ao coração da fé católica! Comecem tranquilamente com os Museus Vaticano e a Capela Sistina, depois explorem a magnífica Basílica de São Pedro. Este é um dos dias mais importantes da vossa peregrinação. ✝️",
+            intro: "Sábado no Vaticano — um dia inteiro dedicado ao coração da fé católica! Começam cedo com os Museus Vaticano e a Capela Sistina, depois a magnífica Basílica de São Pedro às 15h (segunda Porta Santa!), seguida de Santa Maria Maior às 17h (terceira Porta Santa!). No final, jantar em Trastevere. Dia CHEIO e espiritual! ✝️",
             schedule: [
-                { time: "08:30", title: "Pequeno-almoço", icon: "☕" },
-                { time: "09:00", title: "Ir para o Vaticano", desc: "Metro Linha A: Repubblica → Ottaviano-San Pietro", mapLink: "https://www.google.com/maps/dir/Hotel+Quirinale/Vatican+Museums", details: ["Caminhar 2min até Metro Repubblica (200m do hotel)", "Metro Linha A (vermelha) - 4 paragens, 10min", "Descer em Ottaviano-San Pietro", "Caminhar 7min até Museus Vaticano"], tip: "🎫 Bilhete: €1.50 (válido 100min)", religious: "✝️ Vão visitar o menor país do mundo - 0,44 km² de território sagrado!", icon: "🚆" },
-                { time: "09:30-12:30", title: "🎨 Museus do Vaticano + Capela Sistina", desc: "⚠️ BILHETES ONLINE! €25", movieRef: "🎬 'Angels & Demons' (2009)", religious: "✝️ Capela Sistina - onde se elegem os Papas! Michelangelo pintou o tecto em 4 anos!", tip: "💡 MUITA caminhada. Silêncio absoluto na Capela!", highlights: ["Escadaria em espiral de Bramante", "Salas de Rafael", "Capela Sistina - tecto de Michelangelo"], icon: "📸" },
-                { time: "12:30-13:30", title: "Almoço em Borgo Pio", restaurants: ["🍝 Ristorante dei Musei - Via Borgo Pio, 162", "🍝 Tre Pupazzi - Borgo Pio, 183", "🍝 L'Arcangelo - Via G.G. Belli, 59 - Reservar!", "🍕 Pizzarium (Bonci) - Via della Meloria, 43 - Pizza al taglio famosa!"], icon: "🍽️" },
-                { time: "13:30-15:30", title: "⛪ Basílica de São Pedro", desc: "Entrada gratuita pela basílica", highlights: ["Pietà de Michelangelo", "Cúpula (opcional subir - 551 degraus ou elevador + 320 degraus)", "Baldaquino de Bernini - 29m de altura", "Túmulo de São Pedro - sob o altar principal", "Estátua de São Pedro - beijar o pé (já gasto!)", "🚪 Porta Santa - atravessar para Indulgência Plenária!", "Praça de São Pedro - colonata de Bernini"], religious: "✝️ A maior igreja do mundo (136m de altura da cúpula). Construída sobre o túmulo de São Pedro, crucificado de cabeça para baixo no Circo de Nero (64 d.C.). Levou 120 anos a construir (1506-1626).", tip: "💡 Subir à cúpula só para quem tiver energia! Vista incrível sobre Roma. 👗 CÓDIGO VESTUÁRIO: Ombros e joelhos cobertos!", movieRef: "🎬 'Angels & Demons' (2009) - mas sem bombas, prometemos!", icon: "📸" },
-                { time: "15:30", title: "Regresso ao Hotel para Descanso", desc: "Metro de volta. Tempo para descansar bem as pernas!", mapLink: "https://www.google.com/maps/dir/St.+Peter's+Basilica/Hotel+Quirinale", tip: "Foi um dia intenso e espiritual - descansem bem antes do jantar!", icon: "🚆" },
-                { time: "19:30", title: "Jantar em Trastevere", desc: "Bairro boémio, atmosfera autêntica", restaurants: ["🍝 Da Enzo al 29 - ⭐ RESERVAR!", "🍝 Taverna Trilussa - Bom para grupos", "🍝 Tonnarello - Cacio e Pepe na roda de queijo!"], movieRef: "🎬 Alma de Roma como em 'Roman Holiday'", icon: "🍽️" }
+                { time: "07:00", title: "Pequeno-almoço", desc: "Começar cedo!", icon: "☕" },
+                { time: "07:45", title: "Ir para o Vaticano", desc: "Metro Linha A: Repubblica → Ottaviano-San Pietro", mapLink: "https://www.google.com/maps/dir/Hotel+Quirinale/Vatican+Museums", details: ["Caminhar 2min até Metro Repubblica (200m do hotel)", "Metro Linha A (vermelha) - 4 paragens, 10min", "Descer em Ottaviano-San Pietro", "Caminhar 7min até Museus Vaticano"], tip: "🎫 Bilhete metro: €1.50 (válido 100min)", religious: "✝️ Vão visitar o menor país do mundo - 0,44 km² de território sagrado!", icon: "🚆" },
+                { time: "08:30-12:00", title: "🎨 Museus do Vaticano + Capela Sistina", desc: "⚠️ BILHETES ONLINE! €25/€13", mapLink: "https://www.museivaticani.va", movieRef: "🎬 'Angels & Demons' (2009)", religious: "✝️ Capela Sistina - onde se elegem os Papas! Michelangelo pintou o tecto em 4 anos!", tip: "💡 MUITA caminhada (7km dentro dos museus!). Silêncio absoluto na Capela Sistina!", highlights: ["Escadaria em espiral de Bramante", "Salas de Rafael", "Capela Sistina - tecto de Michelangelo", "Juízo Final de Michelangelo"], icon: "🎨" },
+                { time: "12:00-13:00", title: "Almoço ao Lado do Vaticano", restaurants: ["🍝 Pastasciutta - recomendação especial!", "🍝 Ristorante dei Musei - Via Borgo Pio, 162", "🍝 Tre Pupazzi - Borgo Pio, 183", "🍕 Pizzarium (Bonci) - Via della Meloria, 43 - Pizza al taglio famosa!"], icon: "🍽️" },
+                { time: "13:00-15:00", title: "Tempo Livre / Explorar", desc: "Opções enquanto esperam pela reserva das 15h", highlights: ["🏰 Castelo de Santo Ângelo (só passar por fora)", "⛪ Igreja de Santo Inácio de Loyola", "⛪ Basílica de Santa Maria Sobre Minerva", "☕ Café italiano"], tip: "💡 Não se afastem muito - têm reserva às 15h em São Pedro!", icon: "☕" },
+                { time: "15:00", title: "🚪 Basílica de São Pedro", desc: "⚠️ RESERVA MARCADA - Marisa", details: ["👤 Reserva: Marisa (App Jubilee)", "🔑 Código: Constantino&63", "🚪 SEGUNDA PORTA SANTA! 2/4 completadas"], highlights: ["🚪 Porta Santa - atravessar para Indulgência Plenária!", "Pietà de Michelangelo", "Baldaquino de Bernini - 29m de altura", "Túmulo de São Pedro - sob o altar principal", "Estátua de São Pedro - beijar o pé (já gasto!)", "Cúpula (opcional subir - 551 degraus ou elevador + 320)", "Praça de São Pedro - colonata de Bernini"], religious: "✝️ A maior igreja do mundo (136m de altura da cúpula). Construída sobre o túmulo de São Pedro, crucificado de cabeça para baixo no Circo de Nero (64 d.C.). Levou 120 anos a construir (1506-1626).", tip: "💡 Subir à cúpula só para quem tiver energia! 👗 CÓDIGO VESTUÁRIO RIGOROSO: Ombros e joelhos cobertos!", movieRef: "🎬 'Angels & Demons' (2009) - mas sem bombas, prometemos!", icon: "⛪" },
+                { time: "16:30", title: "🚇 Ir para Santa Maria Maior", desc: "Metro A: Ottaviano → Termini, depois 10min a pé", mapLink: "https://www.google.com/maps/dir/St.+Peter's+Basilica/Basilica+Papale+Santa+Maria+Maggiore", details: ["Metro A: Ottaviano → Termini (4 paragens)", "Ou Metro A: Ottaviano → Cavour (mais perto)", "10min a pé até à basílica"], icon: "🚇" },
+                { time: "17:00", title: "🚪 Basílica de Santa Maria Maior", desc: "TERCEIRA PORTA SANTA!", religious: "✝️ Uma das 4 basílicas papais! Dedicada à Virgem Maria. Contém relíquias do presépio de Jesus!", details: ["🚪 TERCEIRA PORTA SANTA! 3/4 completadas", "💡 Papa Francisco celebra aqui frequentemente!"], highlights: ["Porta Santa - atravessar!", "Mosaicos do século V", "Tecto decorado com primeiro ouro vindo da América", "Capela Sistina (não confundir com a do Vaticano!)", "Relíquias do Presépio de Belém"], tip: "💡 Pertinho do hotel! Podem voltar a pé (900m, 12min)", icon: "⛪" },
+                { time: "18:00", title: "Regresso ao Hotel", desc: "12min a pé (900m) - podem descansar!", mapLink: "https://www.google.com/maps/dir/Basilica+Santa+Maria+Maggiore/Hotel+Quirinale", tip: "Foi um dia MUITO intenso! 2 Portas Santas num dia! Descansem bem.", icon: "🚶" },
+                { time: "18:00-19:00", title: "Descanso no Hotel", desc: "Recuperar energias, trocar de roupa, refrescar-se", icon: "☕" },
+                { time: "19:00", title: "🚇 Ir para Trastevere", desc: "Metro + Bus ou Táxi", mapLink: "https://www.google.com/maps/dir/Hotel+Quirinale/Trastevere", details: ["Metro A: Repubblica → Piramide, depois Bus 8 ou Tram 8", "Ou táxi (mais fácil) ~€15"], icon: "🚇" },
+                { time: "19:30", title: "Jantar em Trastevere", desc: "Bairro boémio, atmosfera autêntica de Roma", restaurants: ["🍝 Da Enzo al 29 - ⭐⭐⭐ RESERVAR!", "🍝 Taverna Trilussa - Bom para grupos", "🍝 Tonnarello - Cacio e Pepe na roda de queijo!", "🍝 Flavio al Velavevodetto - Carbonara top!"], tip: "💡 Trastevere à noite é mágico! Ruas de pedra, música ao vivo, ambiente fantástico!", movieRef: "🎬 Alma de Roma como em 'Roman Holiday'", icon: "🍽️" },
+                { time: "22:00", title: "🏨 Regresso ao Hotel", desc: "Táxi ou transporte público. Descansar - amanhã é outro dia cheio!", icon: "🚌" }
             ]
         },
         {
-            title: "Domingo - Roma Antiga + Angelus (Opcional)",
+            title: "Domingo - Roma Clássica",
             fullDate: "Domingo, 30 Novembro 2025",
-            intro: "Domingo em Roma — uma verdadeira viagem no tempo! De manhã, o Coliseu, o Fórum Romano, o Monte Palatino. Ao meio-dia, oportunidade ÚNICA de ver o Papa no Angelus (opcional)! À tarde, o encantador Bairro Judeu com as famosas alcachofras fritas. É um dia com muita caminhada — mas cada passo vale a pena. 🏛️",
+            intro: "Domingo em Roma — um dia dedicado aos tesouros clássicos da cidade! Começam com a Fontana di Trevi e o famoso croissant de pistachio, depois visitam marcos icónicos: Escadaria Espanhola, Campidoglio, Campo dei Fiori, Boca della Verità. Às 14h, a quarta e última Porta Santa em São João de Latrão! Depois, o Panteão e descanso. À noite, jantar no Bairro Judeu. Dia perfeito de Roma! ⛲",
             schedule: [
                 { time: "08:30", title: "Pequeno-almoço", icon: "☕" },
-                { time: "09:00", title: "Ir para o Coliseu", desc: "Metro Linha B ou caminhar", mapLink: "https://www.google.com/maps/dir/Hotel+Quirinale,+Via+Nazionale,+7,+00184+Roma/Colosseum,+Piazza+del+Colosseo,+00184+Roma", details: ["METRO: Termini → Colosseo (2 paragens, 3min) - €1.50", "A PÉ: 2km, 25min descida pela Via dei Fori Imperiali"], icon: "🚆" },
-                { time: "09:30-11:30", title: "🏛️ Coliseu + Fórum Romano + Palatino", desc: "⚠️ BILHETES ONLINE! €18", movieRef: "🎬 'Gladiator' (2000)", religious: "✝️ Palco do martírio de muitos cristãos. Por isso há uma cruz dentro!", highlights: ["Coliseu - arena dos gladiadores", "Fórum Romano - centro da Roma Antiga", "Palatino - colina dos imperadores"], tip: "💡 Visita rápida (2h) para ter tempo para o Angelus!", icon: "📸" },
-                { time: "11:30", title: "🚇 OPCIONAL: Ir para o Vaticano para o Angelus", desc: "Se quiserem ver o Papa!", mapLink: "https://www.google.com/maps/dir/Colosseum/St.+Peter's+Square", details: ["Metro B: Colosseo → Termini", "Trocar para Metro A: Termini → Ottaviano", "Caminhar 7min até Praça São Pedro", "⏰ Total: 30min de viagem"], tip: "💡 OPCIONAL! Se não forem, podem almoçar perto do Coliseu e continuar o itinerário", icon: "🚆" },
-                { time: "12:00-12:15", title: "⛪ ANGELUS COM O PAPA (OPCIONAL)", desc: "Oração do Angelus na Praça de São Pedro", religious: "✝️ MOMENTO ÚNICO! Todos os domingos ao meio-dia, o Papa aparece à janela do Palácio Apostólico e reza o Angelus com os fiéis. Breve mensagem + bênção apostólica.", highlights: ["Papa aparece à janela às 12:00", "Reza o Angelus com a multidão", "Breve mensagem (5-10min)", "Bênção apostólica", "Termina às 12:15 aproximadamente"], tip: "💡 Chegar cedo (11:45) para boa posição. É grátis, não precisa bilhete! Muita gente mas vale MUITO a pena!", icon: "✝️", movieRef: "✝️ 'Ver o Papa é uma graça única! Momento inesquecível!'" },
-                { time: "13:00", title: "Almoço", restaurants: ["SE FORAM AO ANGELUS: 🍝 Borgo Pio (perto Vaticano)", "SE NÃO FORAM: 🍝 Li Rioni - Via dei Santi Quattro, 24 (perto Coliseu)", "🍝 Terre e Domus - Foro di Traiano, 82-84"], icon: "🍽️" },
-                { time: "14:30", title: "Piazza Venezia + Campidoglio", mapLink: "https://www.google.com/maps/dir/Colosseum/Piazza+Venezia,+00186+Roma", highlights: ["Monumento Vittorio Emanuele II", "Praça do Capitólio - desenho de Michelangelo"], icon: "📸" },
-                { time: "16:00", title: "Bairro Judeu", mapLink: "https://www.google.com/maps/dir/Piazza+Venezia/Jewish+Ghetto,+Rome", religious: "✝️ Comunidade judaica mais antiga da Europa Ocidental (161 a.C.)!", icon: "📍" },
-                { time: "19:00", title: "Jantar no Bairro Judeu", restaurants: ["🍝 Nonna Betta - ⭐ Carciofi alla Giudia OBRIGATÓRIO!", "🍝 Ba'Ghetto - Kosher, terraço", "🍝 Sora Margherita - Sem placa! Reservar!"], icon: "🍽️" },
-                { time: "21:00", title: "Regresso ao Hotel", icon: "🚌" }
+                { time: "09:00", title: "⛲ Fontana di Trevi + Croissant", desc: "L'Antico Forno di Fontana di Trevi", mapLink: "https://www.google.com/maps/dir/Hotel+Quirinale/Trevi+Fountain", details: ["15min a pé do hotel (1.3km)", "🥐 Croissant de pistachio na padaria ao lado da fonte!", "📍 L'Antico Forno di Fontana di Trevi - Via della Panetteria, 37"], religious: "✝️ A fonte celebra a chegada da água do aqueduto Acqua Vergine. Lancem a moeda com a mão direita por cima do ombro esquerdo: 1 moeda = voltam a Roma; 2 = novo amor; 3 = casamento!", highlights: ["Fontana di Trevi - a fonte mais famosa do mundo!", "Croissant de pistachio no L'Antico Forno 🥐", "Lançar a moeda na fonte"], tip: "💡 De manhã está mais tranquilo que à noite!", icon: "⛲" },
+                { time: "09:45", title: "🪜 Escadaria Espanhola", desc: "Piazza di Spagna - 700m de Trevi (9min a pé)", mapLink: "https://www.google.com/maps/dir/Trevi+Fountain/Spanish+Steps", highlights: ["135 degraus do século XVIII", "Igreja Trinità dei Monti no topo", "Barcaccia (fonte em forma de barco) - Bernini"], movieRef: "🎬 'Roman Holiday' (1953) - Audrey Hepburn comeu gelado aqui (agora proibido!)", tip: "💡 Não podem sentar nem comer nos degraus - é proibido e multam!", icon: "📸" },
+                { time: "10:30", title: "Monumento a Vittorio Emanuele + Campidoglio", desc: "1.5km da Escadaria (20min a pé ou Bus)", mapLink: "https://www.google.com/maps/dir/Spanish+Steps/Piazza+Venezia", highlights: ["Altare della Patria - monumento enorme branco", "Praça do Capitólio - desenhada por Michelangelo", "Estátua equestre de Marco Aurélio", "Vista panorâmica de Roma"], tip: "💡 Podem subir ao terraço do monumento (elevador €10) para vista 360°", icon: "📸" },
+                { time: "11:30", title: "Campo dei Fiori", desc: "Mercado histórico + praça vibrante", mapLink: "https://www.google.com/maps/dir/Piazza+Venezia/Campo+de'+Fiori", details: ["800m do Campidoglio (10min a pé)", "Mercado de manhã (segunda a sábado)", "Domingo: a praça está aberta mas sem mercado"], highlights: ["Estátua de Giordano Bruno (filósofo queimado aqui)", "Praça rodeada de bares e restaurantes", "Ambiente autêntico romano"], tip: "💡 Ao domingo não há mercado, mas a praça tem ambiente!", icon: "📍" },
+                { time: "12:00", title: "👄 Boca della Verità", desc: "Bocca della Verità - Santa Maria in Cosmedin", mapLink: "https://www.google.com/maps/dir/Campo+de'+Fiori/Bocca+della+Verita", religious: "✝️ Igreja de Santa Maria in Cosmedin (século VIII)", highlights: ["Boca della Verità - máscara de mármore", "Lenda: morde a mão de quem mente!", "Interior da igreja muito bonito"], movieRef: "🎬 'Roman Holiday' (1953) - cena icónica com Gregory Peck e Audrey Hepburn", tip: "💡 Pode haver fila para tirar foto - vale a pena!", icon: "📸" },
+                { time: "12:45-13:45", title: "Almoço Perto", restaurants: ["🍝 Li Rioni - Via dei Santi Quattro, 24", "🍝 Terre e Domus - Foro di Traiano, 82-84", "🍝 Flavio al Velavevodetto - Testaccio (um pouco mais longe mas excelente!)"], icon: "🍽️" },
+                { time: "14:00", title: "🚪 São João de Latrão", desc: "⚠️ QUARTA E ÚLTIMA PORTA SANTA!", mapLink: "https://www.google.com/maps/dir/Bocca+della+Verita/Archbasilica+of+Saint+John+Lateran", details: ["🚇 Metro A: Manzoni ou San Giovanni (10min)", "Ou táxi (~€10)", "🚪 QUARTA PORTA SANTA! 4/4 COMPLETADAS! 🎉"], religious: "✝️ A Catedral de Roma! A igreja do Papa (não São Pedro!). 'Mãe de todas as igrejas do mundo'. Foi a primeira basílica papal, construída por Constantino em 324 d.C.!", highlights: ["🚪 Porta Santa - ÚLTIMA! Completam as 4!", "Fachada monumental", "Interior dourado magnífico", "Claustro medieval", "Escadaria Santa (Scala Santa) - as escadas que Jesus subiu"], tip: "💡 PARABÉNS! Completaram as 4 Portas Santas do Jubileu! Graça extraordinária! 🙏✝️", icon: "⛪" },
+                { time: "15:30", title: "🚇 Ir para o Panteão", desc: "Metro A: San Giovanni → Barberini, depois caminhar", mapLink: "https://www.google.com/maps/dir/San+Giovanni+in+Laterano/Pantheon", details: ["Metro A: 15min", "Ou táxi direto (~€12)"], icon: "🚇" },
+                { time: "16:00", title: "🏛️ Panteão", desc: "Entrada €5", mapLink: "https://www.pantheonroma.com/", religious: "✝️ Templo pagão convertido em igreja cristã em 609 d.C. (Santa Maria ad Martyres)", highlights: ["Cúpula perfeita - maior cúpula não reforçada do mundo!", "Óculo central (abertura no tecto) - só fonte de luz", "Túmulo de Rafael Sanzio", "Túmulos dos reis de Itália"], movieRef: "🎬 'Angels & Demons' (2009) - Rafael está enterrado aqui!", tip: "💡 A arquitectura é PERFEITA. Ficam em silêncio a admirar!", icon: "🏛️" },
+                { time: "17:00", title: "🏨 Regresso ao Hotel", desc: "20min a pé ou táxi", mapLink: "https://www.google.com/maps/dir/Pantheon/Hotel+Quirinale", tip: "Foi um dia INCRÍVEL! Completaram as 4 Portas Santas! Descansem bem!", icon: "🚶" },
+                { time: "17:00-19:00", title: "Descanso no Hotel", desc: "Recuperar energias. Merecido após dia cheio!", icon: "☕" },
+                { time: "19:00", title: "🚶 Ir para o Bairro Judeu", desc: "Táxi (~€10) ou caminhar 25min", mapLink: "https://www.google.com/maps/dir/Hotel+Quirinale/Jewish+Ghetto+Rome", religious: "✝️ Comunidade judaica mais antiga da Europa Ocidental (desde 161 a.C.)!", icon: "🚶" },
+                { time: "19:30", title: "Jantar no Bairro Judeu", desc: "Especialidades judaico-romanas", restaurants: ["🍝 Nonna Betta - ⭐⭐⭐ Carciofi alla Giudia (alcachofras fritas) OBRIGATÓRIO!", "🍝 Ba'Ghetto - Kosher, terraço romântico", "🍝 Sora Margherita - Sem placa! Procurem, reservar!", "🍝 Piperno - Histórico desde 1860"], highlights: ["Carciofi alla Giudia (alcachofras fritas crocantes)", "Fiori di zucca (flores de abóbora fritas)", "Coda alla vaccinara (rabo de boi estufado)"], tip: "💡 O Bairro Judeu à noite é lindo! Sinagoga iluminada, ruas estreitas, ambiente especial!", icon: "🍽️" },
+                { time: "21:30", title: "🏨 Regresso ao Hotel", desc: "Última noite em Roma - descansem bem!", religious: "✝️ Hoje completaram as 4 Portas Santas! Uma bênção única! 🙏", icon: "🚌" }
             ]
         },
         {
-            title: "Segunda - Partida",
+            title: "Segunda - Roma Antiga + Partida",
             fullDate: "Segunda-feira, 1 Dezembro 2025",
-            intro: "Último dia em Roma! Manhã tranquila: Panteão, Piazza Navona, café italiano. Voo às 17:55 - sair do hotel às 14:30. Arrivederci! 🙏",
+            intro: "Último dia em Roma! Manhã dedicada à Roma Antiga: Coliseu, Fórum Romano e Monte Palatino - o que estava planeado para domingo. Depois almoço e partida às 14:45 para o aeroporto de carrinha. Voo às 17:55. Arrivederci, Roma! 🏛️✈️",
             schedule: [
-                { time: "07:30", title: "Pequeno-almoço e Check-out", desc: "⏰ Check-out: 12:00", tip: "Deixar malas guardadas na recepção", icon: "☕" },
-                { time: "08:30", title: "Ir para o Panteão", mapLink: "https://www.google.com/maps/dir/Hotel+Quirinale/Pantheon", icon: "📍" },
-                { time: "09:00-10:00", title: "Panteão", desc: "Entrada €5", movieRef: "🎬 'Angels & Demons' - Rafael está enterrado aqui!", religious: "✝️ Templo convertido em igreja em 609 d.C.", icon: "📸" },
-                { time: "10:15", title: "Piazza Navona", mapLink: "https://www.google.com/maps/dir/Pantheon/Piazza+Navona", highlights: ["Fonte dos Quatro Rios - Bernini", "Igreja Sant'Agnese"], icon: "📸" },
-                { time: "10:45", title: "☕ Café Italiano Autêntico", cafes: ["⭐ Sant'Eustachio Il Caffè", "⭐ Tazza d'Oro"], movieRef: "☕ De pé no balcão como os locais!", icon: "☕" },
-                { time: "11:30", title: "Almoço Ligeiro (SE houver tempo)", restaurants: ["🍝 Armando al Pantheon", "Ou apenas gelado e tramezzino"], tip: "⚠️ Não demorar - hotel às 13:00!", icon: "🍽️" },
-                { time: "13:00", title: "Regresso ao Hotel", desc: "Buscar malas", icon: "🚌" },
-                { time: "13:15-14:30", title: "Tempo Livre no Hotel", desc: "Descansar, organizar", icon: "☕" },
-                { time: "14:30", title: "Caminhar para Termini", desc: "8 minutos a pé", icon: "📍" },
-                { time: "14:45", title: "🚆 Leonardo Express em Termini", desc: "Comboio direto para Fiumicino", details: ["Duração: 32 minutos", "Bilhete: €14/pessoa", "Partidas a cada 15 minutos"], tip: "💡 Chegam às 15:17 - perfeito!", religious: "✝️ Levem a bênção de São Pedro convosco!", icon: "🚆" },
-                { time: "15:17", title: "Chegada ao Aeroporto", icon: "📍" },
-                { time: "15:55", title: "🛫 Check-in", icon: "📍" },
-                { time: "17:55", title: "✈️ Partida para Lisboa", movieRef: "🎬 'Arrivederci Roma!'", icon: "📍" },
-                { time: "20:05", title: "🛬 Chegada a Lisboa", religious: "✝️ Com o coração cheio de bênçãos!", icon: "📍" }
+                { time: "07:30", title: "Pequeno-almoço", icon: "☕" },
+                { time: "08:00", title: "Check-out do Hotel", desc: "⏰ Check-out oficial: pode variar - confirmar com hotel", tip: "💡 Deixar malas guardadas na recepção. Vão buscar depois do Coliseu!", icon: "🏨" },
+                { time: "08:30", title: "🚇 Ir para o Coliseu", desc: "Metro Linha B ou caminhar", mapLink: "https://www.google.com/maps/dir/Hotel+Quirinale/Colosseum", details: ["METRO: Termini → Colosseo (2 paragens, 3min) - €1.50", "A PÉ: 2km, 25min descida pela Via dei Fori Imperiali"], icon: "🚆" },
+                { time: "09:00-11:30", title: "🏛️ Coliseu + Fórum Romano + Palatino", desc: "⚠️ BILHETES ONLINE! €18/€2", mapLink: "https://parcocolosseo.it/", movieRef: "🎬 'Gladiator' (2000) - 'Are you not entertained?!'", religious: "✝️ Palco do martírio de milhares de cristãos. Por isso há uma cruz dentro do Coliseu!", highlights: ["🏛️ Coliseu - anfiteatro flaviano (70-80 d.C.)", "Arena dos gladiadores - capacidade 50.000 espectadores", "Hipogeu - corredores subterrâneos dos gladiadores", "🏛️ Fórum Romano - centro político e social da Roma Antiga", "Templo de Vesta", "Via Sacra - rua principal", "🏛️ Monte Palatino - colina dos imperadores", "Casa de Augusto", "Vistas incríveis sobre o Fórum"], tip: "💡 Comecem pelo Coliseu, depois Fórum, depois Palatino. É muita caminhada!", icon: "🏛️" },
+                { time: "11:45-12:45", title: "Almoço Perto do Coliseu", restaurants: ["🍝 Li Rioni - Via dei Santi Quattro, 24", "🍝 Terre e Domus - Foro di Traiano, 82-84", "🍝 La Licata - Via del Colosseo, 16", "🍝 Ou gelado + panini ligeiro se tiverem pouco tempo"], tip: "⚠️ Não demorem - têm que estar no hotel às 13:30!", icon: "🍽️" },
+                { time: "13:00", title: "🚇 Regresso ao Hotel", desc: "Metro ou a pé. Buscar malas!", mapLink: "https://www.google.com/maps/dir/Colosseum/Hotel+Quirinale", details: ["Metro B: Colosseo → Termini (2 paragens)", "Ou a pé: 2km, 25min"], icon: "🚆" },
+                { time: "13:30-14:30", title: "No Hotel - Preparação Final", desc: "Buscar malas, usar WC, última verificação", tip: "💡 Confirmar que têm tudo: passaportes, bilhetes, carregadores!", icon: "🏨" },
+                { time: "14:30-14:45", title: "🚐 Partida para o Aeroporto", desc: "Carrinha alugada (9 lugares)", details: ["✅ Carrinha privada do hotel até Fiumicino", "Duração: ~35-45 minutos (dependendo do trânsito)", "Confortável e porta-a-porta para o grupo"], tip: "💡 Muito mais prático que comboio com todo o grupo e malas!", religious: "✝️ Levem a bênção das 4 Portas Santas convosco! 🙏", icon: "🚐" },
+                { time: "15:15-15:30", title: "Chegada ao Aeroporto Fiumicino", desc: "Leonardo da Vinci International Airport", icon: "✈️" },
+                { time: "15:30-17:30", title: "Check-in e Segurança", desc: "Tempo para check-in Ryanair, segurança, duty-free", tip: "💡 Ryanair: check-in pode ser feito online antes. Embarque 17:25!", icon: "📍" },
+                { time: "17:55", title: "✈️ Partida para Lisboa", desc: "Voo Ryanair FCO-LIS", movieRef: "🎬 'Arrivederci Roma!' 🇮🇹❤️", religious: "✝️ Levam no coração: 4 Portas Santas, a bênção do Papa, e memórias eternas!", icon: "✈️" },
+                { time: "20:05", title: "🛬 Chegada a Lisboa", desc: "Aeroporto Humberto Delgado", religious: "✝️ Com o coração cheio de bênçãos e fé renovada! Que experiência incrível! 🙏❤️", tip: "💡 Parabéns! Completaram a peregrinação do Ano Jubilar 2025! 🎉", icon: "🇵🇹" }
             ]
         }
     ];
@@ -473,6 +526,20 @@ function renderGastro() {
             </div>
         </div>
 
+        <div class="gastro-section" style="background: linear-gradient(to right, #fef3c7, #fde68a); border-left-color: #f59e0b;">
+            <div class="gastro-header">
+                <span style="font-size: 32px;">🥐</span>
+                <h3 class="gastro-title" style="color: #92400e;">Croissant de Pistacchio</h3>
+            </div>
+            <div class="gastro-card">
+                <h4 class="gastro-card-title" style="color: #f59e0b;">⭐⭐⭐ L'Antico Forno di Fontana di Trevi</h4>
+                <p class="gastro-card-address">📍 Via della Panetteria, 37 (ao lado da Fontana di Trevi)</p>
+                <p class="gastro-card-hours">🕒 7:00-20:00 | 💰 €3-5</p>
+                <p class="gastro-card-desc">A melhor padaria perto da Fontana di Trevi! O croissant de pistacchio (cornetto al pistacchio) é uma especialidade italiana que têm ABSOLUTAMENTE de provar. Crocante por fora, macio por dentro, recheado com creme de pistacho siciliano.</p>
+                <p class="gastro-card-tip">💡 Incluído no itinerário de Domingo às 09:00 - vão à Fontana di Trevi e param nesta padaria!</p>
+            </div>
+        </div>
+
         <div class="gastro-section" style="background: linear-gradient(to right, #fef3c7, #fef9c3); border-left-color: #ca8a04;">
             <div class="gastro-header">
                 <span style="font-size: 32px;">👑</span>
@@ -578,6 +645,34 @@ function renderInfo() {
             </div>
         </div>
 
+        <div class="info-section" style="background: #dbeafe; border-left-color: #3b82f6;">
+            <h3 class="info-title" style="color: #1e40af;">📱 Apps para Descarregar ANTES da Viagem</h3>
+            <div class="info-content">
+                <div style="background: white; padding: 12px; border-radius: 4px; margin-bottom: 8px;">
+                    <h4 style="font-weight: bold; color: #3b82f6; margin-bottom: 4px; font-size: 14px;">✈️ Ryanair App</h4>
+                    <p style="font-size: 12px; color: #374151;">Descarreguem a app da Ryanair para receber os bilhetes de embarque digitais.</p>
+                    <p style="font-size: 12px; color: #3b82f6; margin-top: 4px;">💡 Façam check-in online 48h antes do voo!</p>
+                </div>
+
+                <div style="background: white; padding: 12px; border-radius: 4px; margin-bottom: 8px;">
+                    <h4 style="font-weight: bold; color: #3b82f6; margin-bottom: 4px; font-size: 14px;">✝️ Jubilee 2025 App</h4>
+                    <p style="font-size: 12px; color: #374151;">App oficial do Ano Jubilar com eventos, missas especiais e informações sobre as celebrações nos dias da vossa visita.</p>
+                    <p style="font-size: 12px; color: #3b82f6; margin-top: 4px;">💡 Procurem "Jubilee 2025" na App Store ou Google Play</p>
+                </div>
+
+                <div style="background: white; padding: 12px; border-radius: 4px; margin-bottom: 8px;">
+                    <h4 style="font-weight: bold; color: #3b82f6; margin-bottom: 4px; font-size: 14px;">🗺️ Google Maps Offline</h4>
+                    <p style="font-size: 12px; color: #374151;">Descarreguem o mapa de Roma offline para usar sem internet ou roaming!</p>
+                    <p style="font-size: 12px; color: #6b7280; margin-top: 4px;">Como fazer:</p>
+                    <p style="font-size: 12px; color: #6b7280;">1. Abrir Google Maps</p>
+                    <p style="font-size: 12px; color: #6b7280;">2. Procurar "Roma"</p>
+                    <p style="font-size: 12px; color: #6b7280;">3. Clicar no nome da cidade em baixo</p>
+                    <p style="font-size: 12px; color: #6b7280;">4. Selecionar "Descarregar"</p>
+                    <p style="font-size: 12px; color: #3b82f6; margin-top: 4px;">💡 Façam isto antes de sair de Portugal, com WiFi!</p>
+                </div>
+            </div>
+        </div>
+
         <div class="info-section" style="background: #dcfce7; border-left-color: #16a34a;">
             <h3 class="info-title" style="color: #166534;">🚇 Transportes em Roma</h3>
             <div class="info-content">
@@ -598,6 +693,17 @@ function renderInfo() {
                         <p>• <span style="background: #dc2626; color: white; padding: 2px 8px; border-radius: 4px;">A</span> Linha Vermelha: Repubblica ↔ Ottaviano (Vaticano)</p>
                         <p>• <span style="background: #2563eb; color: white; padding: 2px 8px; border-radius: 4px;">B</span> Linha Azul: Termini ↔ Colosseo</p>
                         <p style="color: #6b7280; margin-top: 8px;">⚠️ Metro fecha à meia-noite (23:30 sexta/sábado)</p>
+                    </div>
+                </div>
+
+                <div style="background: white; padding: 12px; border-radius: 4px; margin-bottom: 12px;">
+                    <h4 style="font-weight: bold; color: #16a34a; margin-bottom: 4px; font-size: 14px;">💳 Pagamento Contactless nos Transportes</h4>
+                    <div style="font-size: 12px;">
+                        <p style="color: #374151; margin-bottom: 4px;">Boa notícia! Podem pagar diretamente com cartão nos validadores do metro e autocarros:</p>
+                        <p>• ✅ Cartões de Portugal funcionam SEM custos adicionais</p>
+                        <p>• ✅ Podem usar Revolut ou outros cartões digitais</p>
+                        <p>• 💳 Basta aproximar o cartão no validador (contactless)</p>
+                        <p style="color: #16a34a; margin-top: 8px;">💡 Prático e rápido - não precisam comprar bilhetes físicos se não quiserem!</p>
                     </div>
                 </div>
             </div>
