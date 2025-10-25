@@ -403,14 +403,6 @@ function renderDay(dayNum) {
     const day = days[dayNum - 1];
     if (!day) return '';
 
-    // Calculate total Holy Doors progress
-    let totalHolyDoors = 0;
-    for (let i = 0; i < dayNum; i++) {
-        if (days[i].summary && days[i].summary.holyDoors) {
-            totalHolyDoors += days[i].summary.holyDoors;
-        }
-    }
-
     let html = `
         <h2 class="day-title">${day.title}</h2>
         <p class="day-date">${day.fullDate}</p>
@@ -418,37 +410,6 @@ function renderDay(dayNum) {
         <div class="day-intro">
             <p>${day.intro}</p>
         </div>
-
-        ${day.summary ? `
-        <div class="day-summary-cards">
-            <div class="summary-card">
-                <div class="summary-icon">📍</div>
-                <div class="summary-value">${day.summary.locations}</div>
-                <div class="summary-label">Locais</div>
-            </div>
-            <div class="summary-card">
-                <div class="summary-icon">👟</div>
-                <div class="summary-value">${day.summary.walking}</div>
-                <div class="summary-label">Caminhada</div>
-            </div>
-            ${day.summary.holyDoors > 0 ? `
-            <div class="summary-card summary-card-holy">
-                <div class="summary-icon">🚪</div>
-                <div class="summary-value">${totalHolyDoors}/${day.summary.holyDoors === 1 && totalHolyDoors === 4 ? '4' : totalHolyDoors + day.summary.holyDoors}</div>
-                <div class="summary-label">Portas Santas</div>
-            </div>
-            ` : ''}
-        </div>
-        ${totalHolyDoors > 0 ? `
-        <div class="holy-doors-progress">
-            <div class="progress-label">🚪 Progresso Portas Santas: ${totalHolyDoors}/4</div>
-            <div class="progress-bar">
-                <div class="progress-fill" style="width: ${(totalHolyDoors / 4) * 100}%"></div>
-            </div>
-            <div class="progress-text">${totalHolyDoors === 4 ? '✅ COMPLETADO! Todas as 4 Portas Santas atravessadas! 🎉' : `${4 - totalHolyDoors} ${4 - totalHolyDoors === 1 ? 'restante' : 'restantes'}`}</div>
-        </div>
-        ` : ''}
-        ` : ''}
 
         <div class="map-container" id="map-day-${dayNum}"></div>
 
