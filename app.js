@@ -193,7 +193,7 @@ Ao atravessar cada Porta Santa com as condições adequadas (confissão, comunh�
    → ✅ Já incluída no itinerário do Vaticano!
 
 3️⃣ <strong>Santa Maria Maior</strong> - A igreja dedicada à Virgem Maria
-   → 📅 <strong>Sábado, 29/11 às 17:00</strong>
+   → 📅 <strong>Sábado, 29/11 às 16:00</strong>
    → 🚶 Pertinho do hotel! 900m, 12min a pé
    → 💡 Podem ir depois de São Pedro!
 
@@ -215,7 +215,7 @@ Descarreguem a <strong>App Jubilee 2025</strong> antes de partir! Lá têm todas
 
 <strong>Como organizar os dias:</strong>
 • <strong>Sexta (28/11)</strong>: São Paulo Extramuros às 15h (podem encaixar de manhã ou tarde)
-• <strong>Sábado (29/11)</strong>: São Pedro às 15h + Santa Maria Maior às 17h ✅
+• <strong>Sábado (29/11)</strong>: São Pedro às 15h + Santa Maria Maior às 16h ✅
 • <strong>Domingo (30/11)</strong>: São João de Latrão às 14h (entre Coliseu e Bairro Judeu)
 
 <strong>🚪 Como Atravessar a Porta Santa (Passo a Passo):</strong>
