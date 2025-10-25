@@ -649,19 +649,21 @@ function renderInfo() {
             <h3 class="info-title" style="color: #1e40af;">📱 Apps para Descarregar ANTES da Viagem</h3>
             <div class="info-content">
                 <div style="background: white; padding: 12px; border-radius: 4px; margin-bottom: 8px;">
-                    <h4 style="font-weight: bold; color: #3b82f6; margin-bottom: 4px; font-size: 14px;">✈️ Ryanair App</h4>
-                    <p style="font-size: 12px; color: #374151;">Descarreguem a app da Ryanair para receber os bilhetes de embarque digitais.</p>
-                    <div style="background: #fef2f2; padding: 10px; border-radius: 4px; margin-top: 8px; border-left: 4px solid #dc2626;">
+                    <h4 style="font-weight: bold; color: #3b82f6; margin-bottom: 8px; font-size: 14px;">✈️ Ryanair App</h4>
+                    <p style="font-size: 12px; color: #374151; margin-bottom: 12px;">Descarreguem a app da Ryanair para receber os bilhetes de embarque digitais.</p>
+
+                    <div style="background: #fef2f2; padding: 10px; border-radius: 4px; margin-bottom: 8px; border-left: 4px solid #dc2626;">
                         <p style="font-size: 11px; color: #991b1b; font-weight: bold; margin-bottom: 4px;">📋 CÓDIGO DE RESERVA:</p>
-                        <p style="font-size: 18px; color: #dc2626; font-weight: bold; letter-spacing: 2px; font-family: monospace;">QQZM2F</p>
-                        <p style="font-size: 11px; color: #6b7280; margin-top: 4px;">Usem este código para adicionar a reserva na app Ryanair</p>
-                        <div style="background: #fff7ed; padding: 8px; border-radius: 4px; margin-top: 8px; border-left: 3px solid #f97316;">
-                            <p style="font-size: 11px; color: #c2410c; font-weight: bold; margin-bottom: 4px;">📧 EMAIL PARA IMPORTAR:</p>
-                            <p style="font-size: 14px; color: #ea580c; font-weight: bold; font-family: monospace;">Saraalkaim@gmail.com</p>
-                            <p style="font-size: 10px; color: #6b7280; margin-top: 4px;">Usem este email juntamente com o código de reserva</p>
-                        </div>
+                        <p style="font-size: 18px; color: #dc2626; font-weight: bold; letter-spacing: 2px; font-family: monospace; margin: 0;">QQZM2F</p>
                     </div>
-                    <p style="font-size: 12px; color: #3b82f6; margin-top: 8px;">💡 Façam check-in online 48h antes do voo (26 Nov às 05:55)!</p>
+
+                    <div style="background: #fff7ed; padding: 10px; border-radius: 4px; margin-bottom: 8px; border-left: 4px solid #f97316;">
+                        <p style="font-size: 11px; color: #c2410c; font-weight: bold; margin-bottom: 4px;">📧 EMAIL PARA IMPORTAR:</p>
+                        <p style="font-size: 16px; color: #ea580c; font-weight: bold; font-family: monospace; margin: 0;">Saraalkaim@gmail.com</p>
+                    </div>
+
+                    <p style="font-size: 11px; color: #6b7280; margin-bottom: 8px;">Usem o código e email acima para adicionar a reserva na app Ryanair</p>
+                    <p style="font-size: 12px; color: #3b82f6; margin: 0;">💡 Façam check-in online 48h antes do voo (26 Nov às 05:55)!</p>
                 </div>
 
                 <div style="background: white; padding: 12px; border-radius: 4px; margin-bottom: 8px;">
