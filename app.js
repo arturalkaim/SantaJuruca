@@ -1,3 +1,6 @@
+// Import Italian phrases and WC guide from data.js
+import { generalInfoData } from './data.js';
+
 // Global state
 let activeDay = 0;
 let mapInstances = {};
@@ -847,6 +850,9 @@ function renderInfo() {
             </div>
         </div>
 
+        ${renderItalianPhrases()}
+        ${renderWCGuide()}
+
         <div class="info-section" style="background: #f3f4f6; border-left-color: #6b7280;">
             <h3 class="info-title" style="color: #1f2937;">📞 Contactos Úteis</h3>
             <div style="font-size: 12px;">
@@ -859,6 +865,114 @@ function renderInfo() {
             </div>
         </div>
     `;
+}
+
+// Helper function to render Italian phrases section
+function renderItalianPhrases() {
+    const section = generalInfoData.sections.find(s => s.id === 'italian-phrases');
+    if (!section) return '';
+
+    let html = `<div class="info-section" style="background: rgba(16, 185, 129, 0.1); border-left-color: #10b981;">`;
+    html += `<h3 class="info-title" style="color: #10b981;">${section.icon} ${section.title}</h3>`;
+    if (section.subtitle) {
+        html += `<p style="font-size: 12px; color: #6b7280; margin-bottom: 12px;">${section.subtitle}</p>`;
+    }
+    html += '<div class="info-content">';
+
+    section.categories.forEach(category => {
+        html += `<div style="background: white; padding: 12px; border-radius: 4px; margin-bottom: 12px;">`;
+        html += `<h4 style="font-weight: bold; color: #10b981; margin-bottom: 8px; font-size: 14px;">${category.title}</h4>`;
+
+        category.phrases.forEach((phrase, idx) => {
+            const isLast = idx === category.phrases.length - 1;
+            html += `<div style="padding: 8px; border-bottom: ${isLast ? 'none' : '1px solid #f3f4f6'};">`;
+            html += `<p style="font-size: 13px; color: #10b981; font-weight: bold; margin: 0;">${phrase.it} ${phrase.note ? `<span style="color: #6b7280; font-weight: normal; font-size: 11px;">${phrase.note}</span>` : ''}</p>`;
+            html += `<p style="font-size: 11px; color: #6b7280; margin: 0; margin-top: 2px;">${phrase.pt}</p>`;
+            html += '</div>';
+        });
+
+        html += '</div>';
+    });
+
+    if (section.tip) {
+        html += `<p style="font-size: 12px; color: #10b981; margin-top: 12px; padding: 12px; background: white; border-radius: 4px;">${section.tip}</p>`;
+    }
+
+    html += '</div></div>';
+    return html;
+}
+
+// Helper function to render WC guide section
+function renderWCGuide() {
+    const section = generalInfoData.sections.find(s => s.id === 'wc-guide');
+    if (!section) return '';
+
+    let html = `<div class="info-section" style="background: rgba(59, 130, 246, 0.1); border-left-color: #3b82f6;">`;
+    html += `<h3 class="info-title" style="color: #3b82f6;">${section.icon} ${section.title}</h3>`;
+    if (section.subtitle) {
+        html += `<p style="font-size: 12px; color: #6b7280; margin-bottom: 12px;">${section.subtitle}</p>`;
+    }
+    html += '<div class="info-content">';
+
+    // Intro
+    html += `<div style="background: white; padding: 12px; border-radius: 4px; margin-bottom: 12px;">`;
+    html += `<h4 style="font-weight: bold; color: #3b82f6; margin-bottom: 8px;">${section.intro.title}</h4>`;
+    section.intro.points.forEach(point => {
+        html += `<p style="font-size: 12px; color: #374151;">${point}</p>`;
+    });
+    html += `<p style="font-size: 12px; color: #ea580c; margin-top: 8px; font-weight: bold;">${section.intro.warning}</p>`;
+    html += '</div>';
+
+    // Locations
+    section.locations.forEach(loc => {
+        html += `<div style="background: white; padding: 12px; border-radius: 4px; margin-bottom: 8px;">`;
+        html += `<h4 style="font-weight: bold; color: #3b82f6; margin-bottom: 4px;">${loc.title}</h4>`;
+        html += `<p style="font-size: 12px; color: #374151; margin-bottom: 4px;">${loc.desc}</p>`;
+        if (loc.solution) {
+            html += `<p style="font-size: 12px; color: #10b981; margin-top: 4px;"><strong>✓</strong> ${loc.solution}</p>`;
+        }
+        if (loc.locations) {
+            loc.locations.forEach(l => {
+                html += `<p style="font-size: 11px; color: #6b7280;">${l}</p>`;
+            });
+        }
+        if (loc.examples) {
+            loc.examples.forEach(ex => {
+                html += `<p style="font-size: 12px; color: #6b7280;">• ${ex}</p>`;
+            });
+        }
+        if (loc.tip) {
+            html += `<p style="font-size: 11px; color: #3b82f6; margin-top: 6px;">💡 ${loc.tip}</p>`;
+        }
+        html += '</div>';
+    });
+
+    // Strategies
+    html += `<div style="background: white; padding: 12px; border-radius: 4px; margin-bottom: 12px;">`;
+    html += `<h4 style="font-weight: bold; color: #3b82f6; margin-bottom: 8px;">${section.strategies.title}</h4>`;
+    section.strategies.tips.forEach(tip => {
+        html += `<div style="margin-bottom: 8px;">`;
+        html += `<p style="font-size: 13px; color: #374151; font-weight: bold; margin-bottom: 2px;">${tip.icon} ${tip.title}</p>`;
+        html += `<p style="font-size: 12px; color: #6b7280;">${tip.desc}</p>`;
+        html += '</div>';
+    });
+    html += '</div>';
+
+    // Emergency
+    html += `<div style="background: #fef2f2; padding: 12px; border-radius: 4px; border-left: 4px solid #dc2626; margin-bottom: 12px;">`;
+    html += `<h4 style="font-weight: bold; color: #dc2626; margin-bottom: 8px;">${section.emergency.title}</h4>`;
+    section.emergency.options.forEach(opt => {
+        html += `<p style="font-size: 12px; color: #374151;">${opt}</p>`;
+    });
+    html += `<p style="font-size: 12px; color: #10b981; margin-top: 8px; font-weight: bold;">${section.emergency.phrase}</p>`;
+    html += '</div>';
+
+    if (section.reminder) {
+        html += `<p style="font-size: 12px; color: #ea580c; padding: 12px; background: #fff7ed; border-radius: 4px; font-weight: bold;">${section.reminder}</p>`;
+    }
+
+    html += '</div></div>';
+    return html;
 }
 
 // Set active day and update content
