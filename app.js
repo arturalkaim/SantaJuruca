@@ -342,7 +342,7 @@ function renderDay(dayNum) {
             schedule: [
                 { time: "07:00", title: "Pequeno-almoço", desc: "Começar cedo!", icon: "☕" },
                 { time: "07:45", title: "Ir para o Vaticano", desc: "Metro Linha A: Repubblica → Ottaviano-San Pietro", mapLink: "https://www.google.com/maps/dir/Hotel+Quirinale/Vatican+Museums", details: ["Caminhar 2min até Metro Repubblica (200m do hotel)", "Metro Linha A (vermelha) - 4 paragens, 10min", "Descer em Ottaviano-San Pietro", "Caminhar 7min até Museus Vaticano"], tip: "🎫 Bilhete metro: €1.50 (válido 100min)", religious: "✝️ Vão visitar o menor país do mundo - 0,44 km² de território sagrado!", icon: "🚆" },
-                { time: "08:30-12:00", title: "🎨 Museus do Vaticano + Capela Sistina", desc: "⚠️ BILHETES ONLINE! €25/€13", mapLink: "https://www.museivaticani.va", movieRef: "🎬 'Angels & Demons' (2009)", religious: "✝️ Capela Sistina - onde se elegem os Papas! Michelangelo pintou o tecto em 4 anos!", tip: "💡 MUITA caminhada (7km dentro dos museus!). Silêncio absoluto na Capela Sistina!", highlights: ["Escadaria em espiral de Bramante", "Salas de Rafael", "Capela Sistina - tecto de Michelangelo", "Juízo Final de Michelangelo"], icon: "🎨" },
+                { time: "08:30-12:00", title: "🎨 Museus do Vaticano + Capela Sistina", desc: "Entrada reservada", mapLink: "https://www.museivaticani.va", movieRef: "🎬 'Angels & Demons' (2009)", religious: "✝️ Capela Sistina - onde se elegem os Papas! Michelangelo pintou o tecto em 4 anos!", tip: "💡 MUITA caminhada (7km dentro dos museus!). Silêncio absoluto na Capela Sistina!", highlights: ["Escadaria em espiral de Bramante", "Salas de Rafael", "Capela Sistina - tecto de Michelangelo", "Juízo Final de Michelangelo"], icon: "🎨" },
                 { time: "12:00-13:00", title: "Almoço ao Lado do Vaticano", restaurants: ["🍝 Pastasciutta - recomendação especial!", "🍝 Ristorante dei Musei - Via Borgo Pio, 162", "🍝 Tre Pupazzi - Borgo Pio, 183", "🍕 Pizzarium (Bonci) - Via della Meloria, 43 - Pizza al taglio famosa!"], icon: "🍽️" },
                 { time: "13:00-15:00", title: "Tempo Livre / Explorar", desc: "Opções enquanto esperam pela reserva das 15h", highlights: ["🏰 Castelo de Santo Ângelo (só passar por fora)", "⛪ Igreja de Santo Inácio de Loyola", "⛪ Basílica de Santa Maria Sobre Minerva", "☕ Café italiano"], tip: "💡 Não se afastem muito - têm reserva às 15h em São Pedro!", icon: "☕" },
                 { time: "15:00", title: "🚪 Basílica de São Pedro", desc: "⚠️ RESERVA MARCADA - Marisa", details: ["👤 Reserva: Marisa (App Jubilee)", "🔑 Código: Constantino&63", "🚪 SEGUNDA PORTA SANTA! 2/4 completadas"], highlights: ["🚪 Porta Santa - atravessar para Indulgência Plenária!", "Pietà de Michelangelo", "Baldaquino de Bernini - 29m de altura", "Túmulo de São Pedro - sob o altar principal", "Estátua de São Pedro - beijar o pé (já gasto!)", "Cúpula (opcional subir - 551 degraus ou elevador + 320)", "Praça de São Pedro - colonata de Bernini"], religious: "✝️ A maior igreja do mundo (136m de altura da cúpula). Construída sobre o túmulo de São Pedro, crucificado de cabeça para baixo no Circo de Nero (64 d.C.). Levou 120 anos a construir (1506-1626).", tip: "💡 Subir à cúpula só para quem tiver energia! 👗 CÓDIGO VESTUÁRIO RIGOROSO: Ombros e joelhos cobertos!", movieRef: "🎬 'Angels & Demons' (2009) - mas sem bombas, prometemos!", icon: "⛪" },
@@ -387,7 +387,7 @@ function renderDay(dayNum) {
                 { time: "07:30", title: "Pequeno-almoço", icon: "☕" },
                 { time: "08:00", title: "Check-out do Hotel", desc: "⏰ Check-out oficial: pode variar - confirmar com hotel", tip: "💡 Deixar malas guardadas na recepção. Vão buscar depois do Coliseu!", icon: "🏨" },
                 { time: "08:30", title: "🚇 Ir para o Coliseu", desc: "Metro Linha B ou caminhar", mapLink: "https://www.google.com/maps/dir/Hotel+Quirinale/Colosseum", details: ["METRO: Termini → Colosseo (2 paragens, 3min) - €1.50", "A PÉ: 2km, 25min descida pela Via dei Fori Imperiali"], icon: "🚆" },
-                { time: "09:00-11:30", title: "🏛️ Coliseu + Fórum Romano + Palatino", desc: "⚠️ BILHETES ONLINE! €18/€2", mapLink: "https://parcocolosseo.it/", movieRef: "🎬 'Gladiator' (2000) - 'Are you not entertained?!'", religious: "✝️ Palco do martírio de milhares de cristãos. Por isso há uma cruz dentro do Coliseu!", highlights: ["🏛️ Coliseu - anfiteatro flaviano (70-80 d.C.)", "Arena dos gladiadores - capacidade 50.000 espectadores", "Hipogeu - corredores subterrâneos dos gladiadores", "🏛️ Fórum Romano - centro político e social da Roma Antiga", "Templo de Vesta", "Via Sacra - rua principal", "🏛️ Monte Palatino - colina dos imperadores", "Casa de Augusto", "Vistas incríveis sobre o Fórum"], tip: "💡 Comecem pelo Coliseu, depois Fórum, depois Palatino. É muita caminhada!", icon: "🏛️" },
+                { time: "09:00-11:30", title: "🏛️ Coliseu + Fórum Romano + Palatino", desc: "Entrada reservada", mapLink: "https://parcocolosseo.it/", movieRef: "🎬 'Gladiator' (2000) - 'Are you not entertained?!'", religious: "✝️ Palco do martírio de milhares de cristãos. Por isso há uma cruz dentro do Coliseu!", highlights: ["🏛️ Coliseu - anfiteatro flaviano (70-80 d.C.)", "Arena dos gladiadores - capacidade 50.000 espectadores", "Hipogeu - corredores subterrâneos dos gladiadores", "🏛️ Fórum Romano - centro político e social da Roma Antiga", "Templo de Vesta", "Via Sacra - rua principal", "🏛️ Monte Palatino - colina dos imperadores", "Casa de Augusto", "Vistas incríveis sobre o Fórum"], tip: "💡 Comecem pelo Coliseu, depois Fórum, depois Palatino. É muita caminhada!", icon: "🏛️" },
                 { time: "11:45-12:45", title: "Almoço Perto do Coliseu", restaurants: ["🍝 Li Rioni - Via dei Santi Quattro, 24", "🍝 Terre e Domus - Foro di Traiano, 82-84", "🍝 La Licata - Via del Colosseo, 16", "🍝 Ou gelado + panini ligeiro se tiverem pouco tempo"], tip: "⚠️ Não demorem - têm que estar no hotel às 13:30!", icon: "🍽️" },
                 { time: "13:00", title: "🚇 Regresso ao Hotel", desc: "Metro ou a pé. Buscar malas!", mapLink: "https://www.google.com/maps/dir/Colosseum/Hotel+Quirinale", details: ["Metro B: Colosseo → Termini (2 paragens)", "Ou a pé: 2km, 25min"], icon: "🚆" },
                 { time: "13:30-14:30", title: "No Hotel - Preparação Final", desc: "Buscar malas, usar WC, última verificação", tip: "💡 Confirmar que têm tudo: passaportes, bilhetes, carregadores!", icon: "🏨" },
@@ -719,30 +719,6 @@ function renderInfo() {
                         <p>• 💳 Basta aproximar o cartão no validador (contactless)</p>
                         <p style="color: #16a34a; margin-top: 8px;">💡 Prático e rápido - não precisam comprar bilhetes físicos se não quiserem!</p>
                     </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="info-section" style="background: #f3e8ff; border-left-color: #9333ea;">
-            <h3 class="info-title" style="color: #6b21a8;">🎫 Bilhetes para Atrações</h3>
-            <div class="info-content">
-                <div style="background: white; padding: 12px; border-radius: 4px; margin-bottom: 8px;">
-                    <h4 style="font-weight: bold; color: #9333ea; font-size: 14px; margin-bottom: 4px;">⛪ Basílica de São Pedro</h4>
-                    <p style="font-size: 12px; color: #374151;">✅ GRÁTIS (entrada pela basílica)</p>
-                    <p style="font-size: 12px; color: #6b7280;">Cúpula: €10 (elevador + 320 degraus) ou €8 (551 degraus)</p>
-                    <p style="font-size: 12px; color: #9333ea; margin-top: 4px;">💡 Fila de segurança 30-60min. Chegar cedo!</p>
-                </div>
-
-                <div style="background: white; padding: 12px; border-radius: 4px; margin-bottom: 8px;">
-                    <h4 style="font-weight: bold; color: #9333ea; font-size: 14px; margin-bottom: 4px;">🎨 Museus Vaticano + Capela Sistina</h4>
-                    <p style="font-size: 12px; color: #374151;">💰 €25 (online obrigatório!)</p>
-                    <p style="font-size: 12px; color: #dc2626; margin-top: 4px;">⚠️ Reservar em: museivaticani.va</p>
-                </div>
-
-                <div style="background: white; padding: 12px; border-radius: 4px; margin-bottom: 8px;">
-                    <h4 style="font-weight: bold; color: #9333ea; font-size: 14px; margin-bottom: 4px;">🏛️ Coliseu + Fórum + Palatino</h4>
-                    <p style="font-size: 12px; color: #374151;">💰 €18 (bilhete único, válido 24h)</p>
-                    <p style="font-size: 12px; color: #dc2626; margin-top: 4px;">⚠️ Reservar em: coopculture.it ou parcocolosseo.it</p>
                 </div>
             </div>
         </div>
