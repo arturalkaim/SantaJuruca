@@ -667,7 +667,7 @@ function renderInfo() {
                     </div>
 
                     <p style="font-size: 11px; color: #6b7280; margin-bottom: 8px;">Usem o código e email acima para adicionar a reserva na app Ryanair</p>
-                    <p style="font-size: 12px; color: #3b82f6; margin-bottom: 12px;">💡 Façam check-in online 48h antes do voo (26 Nov às 05:55)!</p>
+                    <p style="font-size: 12px; color: #10b981; margin-bottom: 12px;">✅ A Sara vai fazer o check-in online e depois transferir os bilhetes de embarque para as vossas apps!</p>
 
                     <div style="background: #fff7ed; padding: 10px; border-radius: 4px; border-left: 4px solid #f97316;">
                         <p style="font-size: 12px; color: #c2410c; font-weight: bold; margin-bottom: 6px;">🎒 BAGAGEM INCLUÍDA:</p>
