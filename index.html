@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Roma - Ano Jubilar 2025 | Guia de Viagem</title>
+
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css" />
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🇮🇹 Roma - Ano Jubilar 2025 🇮🇹</h1>
+            <p class="subtitle">Guia de Viagem - Grupo de 9 Peregrinos</p>
+            <p class="dates">✈️ 28 Nov - 01 Dez | 🏨 Hotel Quirinale</p>
+            <p class="spiritual">✝️ Cidade Eterna - Coração da Cristandade ✝️</p>
+        </div>
+
+        <div class="tabs" id="tabs">
+            <button class="tab active" data-day="0">
+                <div class="tab-icon">💝</div>
+                <div class="tab-date">Início</div>
+                <div class="tab-label">Intro</div>
+            </button>
+            <button class="tab" data-day="1">
+                <div class="tab-icon">✈️</div>
+                <div class="tab-date">28 Nov</div>
+                <div class="tab-label">Chegada</div>
+            </button>
+            <button class="tab" data-day="2">
+                <div class="tab-icon">⛪</div>
+                <div class="tab-date">29 Nov</div>
+                <div class="tab-label">Vaticano</div>
+            </button>
+            <button class="tab" data-day="3">
+                <div class="tab-icon">🏛️</div>
+                <div class="tab-date">30 Nov</div>
+                <div class="tab-label">Roma Antiga</div>
+            </button>
+            <button class="tab" data-day="4">
+                <div class="tab-icon">🏛️</div>
+                <div class="tab-date">01 Dez</div>
+                <div class="tab-label">Partida</div>
+            </button>
+            <button class="tab" data-day="5">
+                <div class="tab-icon">🍝</div>
+                <div class="tab-date">Comida</div>
+                <div class="tab-label">Gastro</div>
+            </button>
+            <button class="tab" data-day="6">
+                <div class="tab-icon">ℹ️</div>
+                <div class="tab-date">Geral</div>
+                <div class="tab-label">Info</div>
+            </button>
+        </div>
+
+        <div class="content" id="content">
+            <!-- Content will be dynamically loaded here -->
+        </div>
+
+        <div class="footer">
+            <p>✨ Buon viaggio e arrivederci! ✨</p>
+            <p class="spiritual-footer">✝️ Que São Pedro e São Paulo vos acompanhem! ✝️</p>
+        </div>
+    </div>
+
+    <!-- Leaflet JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+
+    <!-- Custom JS -->
+    <script src="app.js"></script>
+</body>
+</html>
