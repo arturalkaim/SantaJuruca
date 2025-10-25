@@ -316,6 +316,7 @@ function renderDay(dayNum) {
             title: "Sexta-feira - Chegada",
             fullDate: "Sexta-feira, 28 Novembro 2025",
             intro: "Queridas tias, o vosso primeiro dia em Roma! Depois de uma madrugada cedo (o voo parte às 05:55 de Lisboa), vão chegar à Cidade Eterna pela manhã. Preparámos este dia com um programa especial: chegada tranquila, visita à Basílica de São Paulo Extramuros às 15h (primeira Porta Santa!), e um Free Walking Tour às 19h que vos vai mostrar os encantos de Roma. No final do tour, passeio pela Fontana di Trevi iluminada. Respirem fundo: estão em Roma! 💙",
+            summary: { locations: 6, walking: "5km", budget: "€30-50", tickets: 0, holyDoors: 1 },
             schedule: [
                 { time: "05:55", title: "Partida de Lisboa", desc: "Voo Ryanair - Aeroporto de Lisboa", religious: "✝️ Que São Rafael, padroeiro dos viajantes, vos proteja!", icon: "✈️" },
                 { time: "10:05", title: "Chegada ao Aeroporto Fiumicino", desc: "Voo aterra - Leonardo da Vinci International", religious: "✝️ Chegam à cidade dos 7 montes, onde São Pedro e São Paulo foram martirizados!", icon: "📍" },
@@ -337,6 +338,7 @@ function renderDay(dayNum) {
             title: "Sábado - Vaticano",
             fullDate: "Sábado, 29 Novembro 2025",
             intro: "Sábado no Vaticano — um dia inteiro dedicado ao coração da fé católica! Começam cedo com os Museus Vaticano e a Capela Sistina, depois a magnífica Basílica de São Pedro às 15h (segunda Porta Santa!), seguida de Santa Maria Maior às 17h (terceira Porta Santa!). No final, jantar em Trastevere. Dia CHEIO e espiritual! ✝️",
+            summary: { locations: 5, walking: "8km", budget: "€50-80", tickets: 1, holyDoors: 2 },
             schedule: [
                 { time: "07:00", title: "Pequeno-almoço", desc: "Começar cedo!", icon: "☕" },
                 { time: "07:45", title: "Ir para o Vaticano", desc: "Metro Linha A: Repubblica → Ottaviano-San Pietro", mapLink: "https://www.google.com/maps/dir/Hotel+Quirinale/Vatican+Museums", details: ["Caminhar 2min até Metro Repubblica (200m do hotel)", "Metro Linha A (vermelha) - 4 paragens, 10min", "Descer em Ottaviano-San Pietro", "Caminhar 7min até Museus Vaticano"], tip: "🎫 Bilhete metro: €1.50 (válido 100min)", religious: "✝️ Vão visitar o menor país do mundo - 0,44 km² de território sagrado!", icon: "🚆" },
@@ -357,6 +359,7 @@ function renderDay(dayNum) {
             title: "Domingo - Roma Clássica",
             fullDate: "Domingo, 30 Novembro 2025",
             intro: "Domingo em Roma — um dia dedicado aos tesouros clássicos da cidade! Começam com a Fontana di Trevi e o famoso croissant de pistachio, depois visitam marcos icónicos: Escadaria Espanhola, Campidoglio, Campo dei Fiori, Boca della Verità. Às 14h, a quarta e última Porta Santa em São João de Latrão! Depois, o Panteão e descanso. À noite, jantar no Bairro Judeu. Dia perfeito de Roma! ⛲",
+            summary: { locations: 8, walking: "10km", budget: "€40-70", tickets: 1, holyDoors: 1 },
             schedule: [
                 { time: "08:30", title: "Pequeno-almoço", icon: "☕" },
                 { time: "09:00", title: "⛲ Fontana di Trevi + Croissant", desc: "L'Antico Forno di Fontana di Trevi", mapLink: "https://www.google.com/maps/dir/Hotel+Quirinale/Trevi+Fountain", details: ["15min a pé do hotel (1.3km)", "🥐 Croissant de pistachio na padaria ao lado da fonte!", "📍 L'Antico Forno di Fontana di Trevi - Via della Panetteria, 37"], religious: "✝️ A fonte celebra a chegada da água do aqueduto Acqua Vergine. Lancem a moeda com a mão direita por cima do ombro esquerdo: 1 moeda = voltam a Roma; 2 = novo amor; 3 = casamento!", highlights: ["Fontana di Trevi - a fonte mais famosa do mundo!", "Croissant de pistachio no L'Antico Forno 🥐", "Lançar a moeda na fonte"], tip: "💡 De manhã está mais tranquilo que à noite!", icon: "⛲" },
@@ -379,6 +382,7 @@ function renderDay(dayNum) {
             title: "Segunda - Roma Antiga + Partida",
             fullDate: "Segunda-feira, 1 Dezembro 2025",
             intro: "Último dia em Roma! Manhã dedicada à Roma Antiga: Coliseu, Fórum Romano e Monte Palatino - o que estava planeado para domingo. Depois almoço e partida às 14:45 para o aeroporto de carrinha. Voo às 17:55. Arrivederci, Roma! 🏛️✈️",
+            summary: { locations: 3, walking: "4km", budget: "€30-50", tickets: 1, holyDoors: 0 },
             schedule: [
                 { time: "07:30", title: "Pequeno-almoço", icon: "☕" },
                 { time: "08:00", title: "Check-out do Hotel", desc: "⏰ Check-out oficial: pode variar - confirmar com hotel", tip: "💡 Deixar malas guardadas na recepção. Vão buscar depois do Coliseu!", icon: "🏨" },
@@ -399,6 +403,14 @@ function renderDay(dayNum) {
     const day = days[dayNum - 1];
     if (!day) return '';
 
+    // Calculate total Holy Doors progress
+    let totalHolyDoors = 0;
+    for (let i = 0; i < dayNum; i++) {
+        if (days[i].summary && days[i].summary.holyDoors) {
+            totalHolyDoors += days[i].summary.holyDoors;
+        }
+    }
+
     let html = `
         <h2 class="day-title">${day.title}</h2>
         <p class="day-date">${day.fullDate}</p>
@@ -406,6 +418,37 @@ function renderDay(dayNum) {
         <div class="day-intro">
             <p>${day.intro}</p>
         </div>
+
+        ${day.summary ? `
+        <div class="day-summary-cards">
+            <div class="summary-card">
+                <div class="summary-icon">📍</div>
+                <div class="summary-value">${day.summary.locations}</div>
+                <div class="summary-label">Locais</div>
+            </div>
+            <div class="summary-card">
+                <div class="summary-icon">👟</div>
+                <div class="summary-value">${day.summary.walking}</div>
+                <div class="summary-label">Caminhada</div>
+            </div>
+            ${day.summary.holyDoors > 0 ? `
+            <div class="summary-card summary-card-holy">
+                <div class="summary-icon">🚪</div>
+                <div class="summary-value">${totalHolyDoors}/${day.summary.holyDoors === 1 && totalHolyDoors === 4 ? '4' : totalHolyDoors + day.summary.holyDoors}</div>
+                <div class="summary-label">Portas Santas</div>
+            </div>
+            ` : ''}
+        </div>
+        ${totalHolyDoors > 0 ? `
+        <div class="holy-doors-progress">
+            <div class="progress-label">🚪 Progresso Portas Santas: ${totalHolyDoors}/4</div>
+            <div class="progress-bar">
+                <div class="progress-fill" style="width: ${(totalHolyDoors / 4) * 100}%"></div>
+            </div>
+            <div class="progress-text">${totalHolyDoors === 4 ? '✅ COMPLETADO! Todas as 4 Portas Santas atravessadas! 🎉' : `${4 - totalHolyDoors} ${4 - totalHolyDoors === 1 ? 'restante' : 'restantes'}`}</div>
+        </div>
+        ` : ''}
+        ` : ''}
 
         <div class="map-container" id="map-day-${dayNum}"></div>
 
@@ -655,6 +698,11 @@ function renderInfo() {
                         <p style="font-size: 11px; color: #991b1b; font-weight: bold; margin-bottom: 4px;">📋 CÓDIGO DE RESERVA:</p>
                         <p style="font-size: 18px; color: #dc2626; font-weight: bold; letter-spacing: 2px; font-family: monospace;">QQZM2F</p>
                         <p style="font-size: 11px; color: #6b7280; margin-top: 4px;">Usem este código para adicionar a reserva na app Ryanair</p>
+                        <div style="background: #fff7ed; padding: 8px; border-radius: 4px; margin-top: 8px; border-left: 3px solid #f97316;">
+                            <p style="font-size: 11px; color: #c2410c; font-weight: bold; margin-bottom: 4px;">📧 EMAIL PARA IMPORTAR:</p>
+                            <p style="font-size: 14px; color: #ea580c; font-weight: bold; font-family: monospace;">Saraalkaim@gmail.com</p>
+                            <p style="font-size: 10px; color: #6b7280; margin-top: 4px;">Usem este email juntamente com o código de reserva</p>
+                        </div>
                     </div>
                     <p style="font-size: 12px; color: #3b82f6; margin-top: 8px;">💡 Façam check-in online 48h antes do voo (26 Nov às 05:55)!</p>
                 </div>
@@ -926,7 +974,7 @@ document.addEventListener('DOMContentLoaded', function() {
 // Scroll to Top Button
 document.addEventListener('DOMContentLoaded', function() {
     const scrollToTopBtn = document.getElementById('scrollToTop');
-    
+
     // Show/hide button based on scroll position
     window.addEventListener('scroll', function() {
         if (window.scrollY > 300) {
@@ -935,7 +983,7 @@ document.addEventListener('DOMContentLoaded', function() {
             scrollToTopBtn.classList.remove('visible');
         }
     });
-    
+
     // Scroll to top when clicked
     scrollToTopBtn.addEventListener('click', function() {
         window.scrollTo({
@@ -943,4 +991,44 @@ document.addEventListener('DOMContentLoaded', function() {
             behavior: 'smooth'
         });
     });
+});
+
+// Swipe Gestures for Day Navigation
+document.addEventListener('DOMContentLoaded', function() {
+    const content = document.getElementById('content');
+    let touchStartX = 0;
+    let touchEndX = 0;
+    let touchStartY = 0;
+    let touchEndY = 0;
+
+    // Minimum swipe distance (in pixels)
+    const minSwipeDistance = 50;
+
+    content.addEventListener('touchstart', function(e) {
+        touchStartX = e.changedTouches[0].screenX;
+        touchStartY = e.changedTouches[0].screenY;
+    }, { passive: true });
+
+    content.addEventListener('touchend', function(e) {
+        touchEndX = e.changedTouches[0].screenX;
+        touchEndY = e.changedTouches[0].screenY;
+        handleSwipe();
+    }, { passive: true });
+
+    function handleSwipe() {
+        const swipeDistanceX = touchEndX - touchStartX;
+        const swipeDistanceY = touchEndY - touchStartY;
+
+        // Check if horizontal swipe is more significant than vertical
+        if (Math.abs(swipeDistanceX) > Math.abs(swipeDistanceY)) {
+            // Swipe left - go to next day
+            if (swipeDistanceX < -minSwipeDistance && activeDay < 6) {
+                setActiveDay(activeDay + 1);
+            }
+            // Swipe right - go to previous day
+            else if (swipeDistanceX > minSwipeDistance && activeDay > 0) {
+                setActiveDay(activeDay - 1);
+            }
+        }
+    }
 });
