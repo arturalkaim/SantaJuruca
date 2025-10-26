@@ -333,7 +333,7 @@ function renderDay(dayNum) {
                 { time: "17:30-18:30", title: "Tempo Livre / Descanso", desc: "Descansar ou passear pela Via Nazionale", details: ["(Opcional) Igreja de Santo Inácio de Loyola - 900m, 12min a pé", "(Opcional) Basílica de Santa Maria Sobre Minerva - perto do Panteão"], tip: "💡 Podem descansar ou explorar perto do hotel antes do tour!", icon: "☕" },
                 { time: "19:00", title: "🚶 Free Walking Tour MARCADO", desc: "Tour guiado gratuito por Roma (gorjeta ao guia no final)", mapLink: "https://www.civitatis.com/pt/roma/free-tour-roma/", details: ["📍 Início: Santa Maria del Popolo, Piazza del Popolo", "📍 Fim: Piazza Navona (cerca 21:00)", "⏱️ Duração: ~2 horas", "✅ Reserva já feita!", "💰 Grátis (gorjeta sugerida €10-15/pessoa)"], highlights: ["Piazza del Popolo", "Via del Corso", "Piazza di Spagna (opcional)", "Fontana di Trevi (pode passar)", "Piazza Navona"], tip: "💡 O guia vai dar dicas fantásticas sobre Roma e restaurantes!", icon: "🚶" },
                 { time: "21:00", title: "Jantar na Piazza Navona", restaurants: ["🍝 Tre Scalini - famoso pelo tartufo gelado", "🍝 Cul de Sac - enoteca com boa comida", "🍝 Estabelle di Bacco", "🍝 Ou onde o guia recomendar!"], tip: "💡 A Piazza Navona à noite é mágica!", icon: "🍽️" },
-                { time: "22:30", title: "🌙 Fontana di Trevi à Noite", desc: "Caminhada de Piazza Navona até Trevi (10min, 700m)", mapLink: "https://www.google.com/maps/dir/Piazza+Navona/Trevi+Fountain", religious: "✝️ Lancem a moeda: uma moeda = voltam a Roma; duas = novo amor; três = casamento!", tip: "💡 À noite está lindamente iluminada e com menos gente! Momento perfeito para fotos.", icon: "⛲" },
+                { time: "22:30", title: "🌙 Fontana di Trevi à Noite", desc: "Caminhada de Piazza Navona até Trevi (10min, 700m)", mapLink: "https://www.google.com/maps/dir/Piazza+Navona/Trevi+Fountain", details: ["⚠️ Nota: Horário organizado 9h-21h (limite 400 pessoas)", "Depois das 21h: acesso mais livre mas pode estar fechada"], religious: "✝️ Lancem a moeda: uma moeda = voltam a Roma; duas = novo amor; três = casamento!", tip: "💡 À noite está lindamente iluminada! Se estiver fechada, voltem no domingo às 9h.", icon: "⛲" },
                 { time: "23:30", title: "🏨 Regresso ao Hotel", desc: "15min a pé de Trevi até hotel. Descansar bem - amanhã é dia cheio no Vaticano!", icon: "🚌" }
             ]
         },
@@ -366,7 +366,7 @@ function renderDay(dayNum) {
             schedule: [
                 { time: "07:30", title: "Pequeno-almoço", icon: "☕" },
                 { time: "09:00", title: "OPÇÃO A: ⛪ Missa Diária em São Pedro", desc: "Basílica de São Pedro - Para quem preferir", mapLink: "https://www.google.com/maps/dir/Hotel+Quirinale/St.+Peter's+Basilica", details: ["🚇 Metro A: Repubblica → Ottaviano (15min)", "Missa diária às 09:00 na Basílica", "Experiência espiritual única", "Depois podem juntar-se ao grupo no Campidoglio (10:30)"], religious: "✝️ Participar na missa diária na maior igreja do mundo! Momento espiritual profundo antes de explorar a cidade.", tip: "💡 OPCIONAL - para quem quiser começar o dia com oração na Basílica de São Pedro. O resto do grupo vai para Fontana di Trevi.", icon: "⛪" },
-                { time: "09:00", title: "OPÇÃO B: ⛲ Fontana di Trevi + Croissant", desc: "L'Antico Forno di Fontana di Trevi", mapLink: "https://www.google.com/maps/dir/Hotel+Quirinale/Trevi+Fountain", details: ["15min a pé do hotel (1.3km)", "🥐 Croissant de pistachio na padaria ao lado da fonte!", "📍 L'Antico Forno di Fontana di Trevi - Via della Panetteria, 37"], religious: "✝️ A fonte celebra a chegada da água do aqueduto Acqua Vergine. Lancem a moeda com a mão direita por cima do ombro esquerdo: 1 moeda = voltam a Roma; 2 = novo amor; 3 = casamento!", highlights: ["Fontana di Trevi - a fonte mais famosa do mundo!", "Croissant de pistachio no L'Antico Forno 🥐", "Lançar a moeda na fonte"], tip: "💡 De manhã está mais tranquilo que à noite! Esta é a opção principal do grupo.", icon: "⛲" },
+                { time: "09:00", title: "OPÇÃO B: ⛲ Fontana di Trevi + Croissant", desc: "L'Antico Forno di Fontana di Trevi", mapLink: "https://www.google.com/maps/dir/Hotel+Quirinale/Trevi+Fountain", details: ["15min a pé do hotel (1.3km)", "🥐 Croissant de pistachio na padaria ao lado da fonte!", "📍 L'Antico Forno di Fontana di Trevi - Via della Panetteria, 37", "⚠️ HORÁRIO ORGANIZADO 9h-21h: limite 400 pessoas de cada vez", "💡 CHEGUEM O MAIS CEDO POSSÍVEL! Às 9h começam a organizar entrada em fila"], religious: "✝️ A fonte celebra a chegada da água do aqueduto Acqua Vergine. Lancem a moeda com a mão direita por cima do ombro esquerdo: 1 moeda = voltam a Roma; 2 = novo amor; 3 = casamento!", highlights: ["Fontana di Trevi - a fonte mais famosa do mundo!", "Croissant de pistachio no L'Antico Forno 🥐", "Lançar a moeda na fonte"], tip: "💡 Ir às 9h é perfeito! Chegam cedo antes das multidões. Esta é a opção principal do grupo.", icon: "⛲" },
                 { time: "09:45", title: "🪜 Escadaria Espanhola", desc: "Piazza di Spagna - 700m de Trevi (9min a pé)", mapLink: "https://www.google.com/maps/dir/Trevi+Fountain/Spanish+Steps", highlights: ["135 degraus do século XVIII", "Igreja Trinità dei Monti no topo", "Barcaccia (fonte em forma de barco) - Bernini"], tip: "💡 Não podem sentar nem comer nos degraus - é proibido e multam!", icon: "📸" },
                 { time: "10:30", title: "Monumento a Vittorio Emanuele + Campidoglio", desc: "1.5km da Escadaria (20min a pé ou Bus)", mapLink: "https://www.google.com/maps/dir/Spanish+Steps/Piazza+Venezia", highlights: ["Altare della Patria - monumento enorme branco", "Praça do Capitólio - desenhada por Michelangelo", "Estátua equestre de Marco Aurélio", "Vista panorâmica de Roma"], tip: "💡 Podem subir ao terraço do monumento (elevador €10) para vista 360°", icon: "📸" },
                 { time: "11:30", title: "Campo dei Fiori", desc: "Mercado histórico + praça vibrante", mapLink: "https://www.google.com/maps/dir/Piazza+Venezia/Campo+de'+Fiori", details: ["800m do Campidoglio (10min a pé)", "Mercado de manhã (segunda a sábado)", "Domingo: a praça está aberta mas sem mercado"], highlights: ["Estátua de Giordano Bruno (filósofo queimado aqui)", "Praça rodeada de bares e restaurantes", "Ambiente autêntico romano"], tip: "💡 Ao domingo não há mercado, mas a praça tem ambiente!", icon: "📍" },
@@ -854,6 +854,52 @@ function renderInfo() {
                     <br><br>
                     Qualquer dúvida, liguem para o hotel ou para nós (vossos sobrinhos). Estamos a uma chamada de distância! 📱❤️
                 </p>
+            </div>
+        </div>
+
+        <div class="info-section" style="background: #e0f2fe; border-left-color: #0284c7;">
+            <h3 class="info-title" style="color: #075985;">🗺️ Mapa Interativo & Bilhetes</h3>
+            <div class="info-content">
+                <div style="background: white; padding: 12px; border-radius: 4px; margin-bottom: 12px;">
+                    <h4 style="font-weight: bold; color: #0284c7; margin-bottom: 8px; font-size: 14px;">📍 Navegação pelos Locais</h4>
+                    <p style="font-size: 12px; color: #374151; margin-bottom: 8px;">
+                        Todas as atividades principais têm um botão <strong style="color: #0284c7;">🗺️ Ver Mapa</strong> que abre diretamente no Google Maps com:
+                    </p>
+                    <p style="font-size: 12px; color: #6b7280;">• 📍 Localização exata do ponto de interesse</p>
+                    <p style="font-size: 12px; color: #6b7280;">• 🚶 Direções a pé desde o local anterior</p>
+                    <p style="font-size: 12px; color: #6b7280;">• 🚇 Opções de transportes públicos quando relevante</p>
+
+                    <div style="background: #dbeafe; padding: 10px; border-radius: 4px; margin-top: 12px; border-left: 4px solid #0284c7;">
+                        <p style="font-size: 12px; color: #075985; font-weight: bold; margin-bottom: 6px;">💡 Dica Útil:</p>
+                        <p style="font-size: 11px; color: #374151; margin-bottom: 4px;">Guardem os locais importantes como <strong>"Favoritos"</strong> no Google Maps:</p>
+                        <p style="font-size: 11px; color: #6b7280;">1. Abram o link "Ver Mapa" de cada atividade</p>
+                        <p style="font-size: 11px; color: #6b7280;">2. Toquem em "Guardar" (estrela ⭐)</p>
+                        <p style="font-size: 11px; color: #6b7280;">3. Criem uma lista "Roma 2025"</p>
+                        <p style="font-size: 11px; color: #0284c7; margin-top: 6px;">Assim podem dar ✅ check em cada local visitado!</p>
+                    </div>
+                </div>
+
+                <div style="background: white; padding: 12px; border-radius: 4px;">
+                    <h4 style="font-weight: bold; color: #0284c7; margin-bottom: 8px; font-size: 14px;">🎫 Bilhetes & Reservas</h4>
+                    <p style="font-size: 12px; color: #374151; margin-bottom: 12px;">
+                        Terão <strong>todos os bilhetes em papel E em formato digital</strong> para maior segurança:
+                    </p>
+
+                    <div style="background: #f0fdf4; padding: 10px; border-radius: 4px; margin-bottom: 8px; border-left: 4px solid #16a34a;">
+                        <p style="font-size: 11px; color: #166534; font-weight: bold; margin-bottom: 4px;">✅ Formato Papel:</p>
+                        <p style="font-size: 11px; color: #374151;">• Bilhetes de avião impressos (backup)</p>
+                        <p style="font-size: 11px; color: #374151;">• Voucher do hotel impresso</p>
+                        <p style="font-size: 11px; color: #374151;">• Confirmações das Portas Santas impressas</p>
+                    </div>
+
+                    <div style="background: #dbeafe; padding: 10px; border-radius: 4px; border-left: 4px solid #0284c7;">
+                        <p style="font-size: 11px; color: #075985; font-weight: bold; margin-bottom: 4px;">📱 Formato Digital:</p>
+                        <p style="font-size: 11px; color: #374151;">• Bilhetes de embarque na App Ryanair</p>
+                        <p style="font-size: 11px; color: #374151;">• Reservas das Portas Santas na App Jubilee 2025</p>
+                        <p style="font-size: 11px; color: #374151;">• Confirmação do hotel por email</p>
+                        <p style="font-size: 11px; color: #0284c7; margin-top: 6px;">💡 Levem os dois formatos para segurança máxima!</p>
+                    </div>
+                </div>
             </div>
         </div>
 
